@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-	<link rel="pingback" href="http://lp.superbuy.com.br/xmlrpc.php">
+	<link rel="pingback" href="xmlrpc.php">
 	
 	<!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -20,10 +20,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<title>Fornecedor &#8211; SuperBuy</title>
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Feed para SuperBuy &raquo;" href="http://lp.superbuy.com.br/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Feed de comentários para SuperBuy &raquo;" href="http://lp.superbuy.com.br/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed para SuperBuy &raquo;" href="feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para SuperBuy &raquo;" href="comments/feed/" />
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/lp.superbuy.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.6"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/lp.superbuy.com.br\/wp-includes\/js\/wp-emoji-release.min.js"}};
 			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
@@ -40,38 +40,38 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel='stylesheet' id='wp-block-library-css'  href='http://lp.superbuy.com.br/wp-includes/css/dist/block-library/style.min.css?ver=5.1.6' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-block-library-theme-css'  href='http://lp.superbuy.com.br/wp-includes/css/dist/block-library/theme.min.css?ver=5.1.6' type='text/css' media='all' />
+	<link rel='stylesheet' id='wp-block-library-css'  href='wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='wp-includes/css/dist/block-library/theme.min.css' type='text/css' media='all' />
 <link rel='stylesheet' id='apparatus-fonts-montserrat-css'  href='https://fonts.googleapis.com/css?family=Montserrat%3A200%2C300%2C400%2C500%2C500i%2C600%2C700%2C800&#038;ver=5.1.6' type='text/css' media='all' />
 <link rel='stylesheet' id='apparatus-fonts-nunito_and_roboto-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C300%2C400%2C400i%2C500%2C700%2C900%7CNunito%3A200%2C300%2C400%2C600%2C700%2C800%2C900&#038;ver=5.1.6' type='text/css' media='all' />
-<link rel='stylesheet' id='bootstrap-css'  href='http://lp.superbuy.com.br/wp-content/themes/apparatus/css/bootstrap.min.css?ver=5.1.6' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-new-css'  href='http://lp.superbuy.com.br/wp-content/themes/apparatus/fonts/font-awesome/css/all.css?ver=5.1.6' type='text/css' media='all' />
-<link rel='stylesheet' id='owl-carousel-css'  href='http://lp.superbuy.com.br/wp-content/themes/apparatus/css/owl.carousel.min.css?ver=5.1.6' type='text/css' media='all' />
-<link rel='stylesheet' id='owl-carousel-theme-default-css'  href='http://lp.superbuy.com.br/wp-content/themes/apparatus/css/owl.theme.default.min.css?ver=5.1.6' type='text/css' media='all' />
-<link rel='stylesheet' id='lity-css'  href='http://lp.superbuy.com.br/wp-content/themes/apparatus/css/lity.min.css?ver=5.1.6' type='text/css' media='all' />
-<link rel='stylesheet' id='animations-css'  href='http://lp.superbuy.com.br/wp-content/themes/apparatus/css/animations.css?ver=5.1.6' type='text/css' media='all' />
-<link rel='stylesheet' id='apparatus-stylesheet-css'  href='http://lp.superbuy.com.br/wp-content/themes/apparatus/style.css?ver=5.1.6' type='text/css' media='all' />
-<link rel='stylesheet' id='apparatus-media-queries-css'  href='http://lp.superbuy.com.br/wp-content/themes/apparatus/css/media-queries.css?ver=5.1.6' type='text/css' media='all' />
-<link rel='stylesheet' id='apparatus-sidebar-widgets-css'  href='http://lp.superbuy.com.br/wp-content/themes/apparatus/css/widget.css?ver=5.1.6' type='text/css' media='all' />
-<link rel='stylesheet' id='apparatus-gutenberg-additions-css'  href='http://lp.superbuy.com.br/wp-content/themes/apparatus/gutenberg/css/gutenberg-additions.css?ver=5.1.6' type='text/css' media='all' />
-<link rel='stylesheet' id='apparatus-font-style-one-css'  href='http://lp.superbuy.com.br/wp-content/themes/apparatus/css/font-style-one.css?ver=5.1.6' type='text/css' media='all' />
-<link rel='stylesheet' id='apparatus-public-style-css'  href='http://lp.superbuy.com.br/wp-content/plugins/the_apparatus_extensions/modules/public.css?ver=6.4.0' type='text/css' media='all' />
-<link rel='stylesheet' id='js_composer_front-css'  href='http://lp.superbuy.com.br/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.7' type='text/css' media='all' />
-<script type='text/javascript' src='http://lp.superbuy.com.br/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-<script type='text/javascript' src='http://lp.superbuy.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-<link rel='https://api.w.org/' href='http://lp.superbuy.com.br/wp-json/' />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://lp.superbuy.com.br/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://lp.superbuy.com.br/wp-includes/wlwmanifest.xml" /> 
+<link rel='stylesheet' id='bootstrap-css'  href='wp-content/themes/apparatus/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-new-css'  href='wp-content/themes/apparatus/fonts/font-awesome/css/all.css' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='wp-content/themes/apparatus/css/owl.carousel.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-theme-default-css'  href='wp-content/themes/apparatus/css/owl.theme.default.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='lity-css'  href='wp-content/themes/apparatus/css/lity.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='animations-css'  href='wp-content/themes/apparatus/css/animations.css' type='text/css' media='all' />
+<link rel='stylesheet' id='apparatus-stylesheet-css'  href='wp-content/themes/apparatus/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='apparatus-media-queries-css'  href='wp-content/themes/apparatus/css/media-queries.css' type='text/css' media='all' />
+<link rel='stylesheet' id='apparatus-sidebar-widgets-css'  href='wp-content/themes/apparatus/css/widget.css' type='text/css' media='all' />
+<link rel='stylesheet' id='apparatus-gutenberg-additions-css'  href='wp-content/themes/apparatus/gutenberg/css/gutenberg-additions.css' type='text/css' media='all' />
+<link rel='stylesheet' id='apparatus-font-style-one-css'  href='wp-content/themes/apparatus/css/font-style-one.css' type='text/css' media='all' />
+<link rel='stylesheet' id='apparatus-public-style-css'  href='wp-content/plugins/the_apparatus_extensions/modules/public.css' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='wp-content/plugins/js_composer/assets/css/js_composer.min.css' type='text/css' media='all' />
+<script type='text/javascript' src='wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<link rel='https://api.w.org/' href='wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.1.6" />
-<link rel="canonical" href="http://lp.superbuy.com.br/fornecedor/" />
-<link rel='shortlink' href='http://lp.superbuy.com.br/?p=430' />
-<link rel="alternate" type="application/json+oembed" href="http://lp.superbuy.com.br/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flp.superbuy.com.br%2Ffornecedor%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://lp.superbuy.com.br/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flp.superbuy.com.br%2Ffornecedor%2F&#038;format=xml" />
+<link rel="canonical" href="fornecedor/" />
+<link rel='shortlink' href='?p=430' />
+<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed?url=http%3A%2F%2Flp.superbuy.com.br%2Ffornecedor%2F" />
+<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed?url=http%3A%2F%2Flp.superbuy.com.br%2Ffornecedor%2F&#038;format=xml" />
 <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
-<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://lp.superbuy.com.br/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel="icon" href="http://lp.superbuy.com.br/wp-content/uploads/2019/05/cropped-sb_favicon-32x32.png" sizes="32x32" />
-<link rel="icon" href="http://lp.superbuy.com.br/wp-content/uploads/2019/05/cropped-sb_favicon-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon-precomposed" href="http://lp.superbuy.com.br/wp-content/uploads/2019/05/cropped-sb_favicon-180x180.png" />
-<meta name="msapplication-TileImage" content="http://lp.superbuy.com.br/wp-content/uploads/2019/05/cropped-sb_favicon-270x270.png" />
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel="icon" href="wp-content/uploads/2019/05/cropped-sb_favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="wp-content/uploads/2019/05/cropped-sb_favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="wp-content/uploads/2019/05/cropped-sb_favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="wp-content/uploads/2019/05/cropped-sb_favicon-270x270.png" />
 <!-- Custom CSS Codes
 ========================================================= -->
 <style id="custom-style">
@@ -123,11 +123,11 @@ img.emoji {
 	}
 		/*Background Images*/
 		.header-blog{
-		background-image: url(http://lp.superbuy.com.br/wp-content/themes/apparatus/images/backgrounds-min/ambient-min.jpg);
+		background-image: url(wp-content/themes/apparatus/images/backgrounds-min/ambient-min.jpg);
 	}
 		@media (max-width: 768px) {
 		.dif-mobile-bg {
-			background-image: url(http://lp.superbuy.com.br/wp-content/themes/apparatus/images/backgrounds-min/ambient-min.jpg) !important;
+			background-image: url(wp-content/themes/apparatus/images/backgrounds-min/ambient-min.jpg) !important;
 			height: 100vh !important;
 			background-size: cover !important;
 			background-repeat: no-repeat;
@@ -141,7 +141,7 @@ img.emoji {
 						
 	
 		footer{
-		background-image: url(http://lp.superbuy.com.br/wp-content/themes/apparatus/images/backgrounds-min/ambient-min.jpg);
+		background-image: url(wp-content/themes/apparatus/images/backgrounds-min/ambient-min.jpg);
 	}
 					
 	.footer-brand .logo{
@@ -179,7 +179,7 @@ img.emoji {
 		margin: 10px 7px 2px 0 !important;
 	}
 </style>
-<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1557772830344{background-image: url(http://lp.superbuy.com.br/wp-content/uploads/2019/05/fundo_sb_clareado.png?id=540) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1553282438968{padding-left: 100px !important;}.vc_custom_1553282455020{margin-right: 100px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1557772830344{background-image: url(wp-content/uploads/2019/05/fundo_sb_clareado.png?id=540) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1553282438968{padding-left: 100px !important;}.vc_custom_1553282455020{margin-right: 100px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
 
 <body class="page-template page-template-page-vc page-template-page-vc-php page page-id-430 wp-custom-logo wp-embed-responsive montserrat_font  wpb-js-composer js-comp-ver-5.7 vc_responsive">
 	
@@ -208,7 +208,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <nav id="navigation" class="navbar navbar-expand-lg navbar-blog">
             <div class="container" id="navigation-container">
                 <!-- Logo -->
-									<a href="http://lp.superbuy.com.br/" class="custom-logo-link" rel="home" itemprop="url"><img width="156" height="60" src="http://lp.superbuy.com.br/wp-content/uploads/2019/03/cropped-logoSB200x200.png" class="custom-logo" alt="SuperBuy" itemprop="logo" /></a>				                <!-- Logo end -->
+									<a href="" class="custom-logo-link" rel="home" itemprop="url"><img width="156" height="60" src="wp-content/uploads/2019/03/cropped-logoSB200x200.png" class="custom-logo" alt="SuperBuy" itemprop="logo" /></a>				                <!-- Logo end -->
                 <!-- Burger menu button -->
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="burger-menu">
@@ -217,12 +217,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </button>
                 <!-- Burger menu button end -->
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul id="menu-main-menu" class="navbar-nav mrg-auto nav-menu-width parent-items-7"><li  id="menu-item-159" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-159 nav-item the-top-parent-item"><a title="onepage" href="http://lp.superbuy.com.br/#home" class="nav-link">Home</a></li>
-<li  id="menu-item-132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-132 nav-item the-top-parent-item"><a title="onepage" href="http://lp.superbuy.com.br/#features" class="nav-link">Serviços</a></li>
-<li  id="menu-item-133" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133 nav-item the-top-parent-item"><a title="onepage" href="http://lp.superbuy.com.br/#about" class="nav-link">Sobre</a></li>
-<li  id="menu-item-134" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134 nav-item the-top-parent-item"><a title="onepage" href="http://lp.superbuy.com.br/#testimonials" class="nav-link">Depoimentos</a></li>
-<li  id="menu-item-461" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-461 nav-item the-top-parent-item"><a title="Seja Comprador" href="http://lp.superbuy.com.br/comprador/" class="nav-link">Seja Comprador</a></li>
-<li  id="menu-item-460" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-430 current_page_item menu-item-460 nav-item the-top-parent-item active"><a title="Seja Fornecedor" href="http://lp.superbuy.com.br/fornecedor/" class="nav-link">Seja Fornecedor</a></li>
+                    <ul id="menu-main-menu" class="navbar-nav mrg-auto nav-menu-width parent-items-7"><li  id="menu-item-159" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-159 nav-item the-top-parent-item"><a title="onepage" href="#home" class="nav-link">Home</a></li>
+<li  id="menu-item-132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-132 nav-item the-top-parent-item"><a title="onepage" href="#features" class="nav-link">Serviços</a></li>
+<li  id="menu-item-133" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133 nav-item the-top-parent-item"><a title="onepage" href="#about" class="nav-link">Sobre</a></li>
+<li  id="menu-item-134" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134 nav-item the-top-parent-item"><a title="onepage" href="#testimonials" class="nav-link">Depoimentos</a></li>
+<li  id="menu-item-461" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-461 nav-item the-top-parent-item"><a title="Seja Comprador" href="comprador/" class="nav-link">Seja Comprador</a></li>
+<li  id="menu-item-460" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-430 current_page_item menu-item-460 nav-item the-top-parent-item active"><a title="Seja Fornecedor" href="fornecedor/" class="nav-link">Seja Fornecedor</a></li>
 <li  id="menu-item-555" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-555 nav-item the-top-parent-item"><a title="Blog" href="http://blog.superbuy.com.br" class="nav-link">Blog</a></li>
 </ul>
                 </div>
@@ -300,8 +300,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a title="onepage" href="#features">Serviços</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133"><a title="onepage" href="#about">Sobre</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-134"><a title="onepage" href="#testimonials">Depoimentos</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-461"><a href="http://lp.superbuy.com.br/comprador/">Seja Comprador</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-430 current_page_item menu-item-460"><a href="http://lp.superbuy.com.br/fornecedor/" aria-current="page">Seja Fornecedor</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-461"><a href="comprador/">Seja Comprador</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-430 current_page_item menu-item-460"><a href="fornecedor/" aria-current="page">Seja Fornecedor</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-555"><a href="http://blog.superbuy.com.br">Blog</a></li>
 </ul>					                </div>
             </div>
@@ -328,13 +328,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 	<!-- Page end -->
 
-	<script type='text/javascript' src='http://lp.superbuy.com.br/wp-content/themes/apparatus/js/bootstrap.min.js?ver=1.0.0'></script>
-<script type='text/javascript' src='http://lp.superbuy.com.br/wp-content/themes/apparatus/js/owl.carousel.min.js?ver=1.0.0'></script>
-<script type='text/javascript' src='http://lp.superbuy.com.br/wp-content/themes/apparatus/js/lity.js?ver=1.0.0'></script>
-<script type='text/javascript' src='http://lp.superbuy.com.br/wp-content/themes/apparatus/js/main-inner.js?ver=1.0.0'></script>
-<script type='text/javascript' src='http://lp.superbuy.com.br/wp-content/themes/apparatus/js/custom-owl.js?ver=1.0.0'></script>
-<script type='text/javascript' src='http://lp.superbuy.com.br/wp-content/themes/apparatus/js/navigation-one.js?ver=1.0.0'></script>
-<script type='text/javascript' src='http://lp.superbuy.com.br/wp-includes/js/wp-embed.min.js?ver=5.1.6'></script>
-<script type='text/javascript' src='http://lp.superbuy.com.br/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.7'></script>
+	<script type='text/javascript' src='wp-content/themes/apparatus/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='wp-content/themes/apparatus/js/owl.carousel.min.js'></script>
+<script type='text/javascript' src='wp-content/themes/apparatus/js/lity.js'></script>
+<script type='text/javascript' src='wp-content/themes/apparatus/js/main-inner.js'></script>
+<script type='text/javascript' src='wp-content/themes/apparatus/js/custom-owl.js'></script>
+<script type='text/javascript' src='wp-content/themes/apparatus/js/navigation-one.js'></script>
+<script type='text/javascript' src='wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js'></script>
 </body>
 </html>
