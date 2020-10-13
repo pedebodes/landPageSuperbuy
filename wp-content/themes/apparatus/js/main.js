@@ -47,34 +47,34 @@ Author:		Fluent Themes
     });
 	
 	
-	//Calculating Logo Size
-	var nav_container = document.getElementById('navigation-container'); 
-	var logo_img = document.getElementById('logo_img'); 
-	var main_menu = document.getElementsByClassName('nav-menu-width'); 
-	var nav_container_width = nav_container.clientWidth;
-	var logo_width = logo_img.clientWidth;
-	var main_menu_width = main_menu[0].clientWidth;
-	var menu_logo_width = main_menu_width + logo_width + 92;
-	var blank_space = nav_container_width - menu_logo_width;
-	var margin = blank_space+'px';
-	//now adding the required style in the custom-css style
-	document.querySelector('#custom-style').textContent += "@media screen and (min-width:992px) {.ft_home .bg-scroll ul.navbar-nav{ margin-left:"+margin+" }}";
+	// //Calculating Logo Size
+	// var nav_container = document.getElementById('navigation-container'); 
+	// var logo_img = document.getElementById('logo_img'); 
+	// var main_menu = document.getElementsByClassName('nav-menu-width'); 
+	// var nav_container_width = nav_container.clientWidth;
+	// var logo_width = logo_img.clientWidth;
+	// var main_menu_width = main_menu[0].clientWidth;
+	// var menu_logo_width = main_menu_width + logo_width + 92;
+	// var blank_space = nav_container_width - menu_logo_width;
+	// var margin = blank_space+'px';
+	// //now adding the required style in the custom-css style
+	// document.querySelector('#custom-style').textContent += "@media screen and (min-width:992px) {.ft_home .bg-scroll ul.navbar-nav{ margin-left:"+margin+" }}";
 
-      /* blogs grid masonary  */
-		(function($) {
+    //   /* blogs grid masonary  */
+	// 	(function($) {
 			
-			/* blogs grid masonary  */
-            var blogs_masonry = $('body').find('.blog-grid-with-msnr');
-            if (blogs_masonry.length) {
+	// 		/* blogs grid masonary  */
+    //         var blogs_masonry = $('body').find('.blog-grid-with-msnr');
+    //         if (blogs_masonry.length) {
 
-                var msnry = new Masonry('.blog-grid-with-msnr', {
-                    percentPosition: true,
-                    columnWidth: '.grid-sizer',
+    //             var msnry = new Masonry('.blog-grid-with-msnr', {
+    //                 percentPosition: true,
+    //                 columnWidth: '.grid-sizer',
 
-                });
-            }
+    //             });
+    //         }
 
-        })(jQuery);
+    //     })(jQuery);
 	
 	// Load More Post On Cat, Blog and Index page
 	jQuery('.load_more a').live('click', function(e){
