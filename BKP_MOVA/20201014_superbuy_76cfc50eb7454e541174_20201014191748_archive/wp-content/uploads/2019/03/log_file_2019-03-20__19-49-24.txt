@@ -1,0 +1,32 @@
+
+---Downloaded files---
+The import files for: App Demo Two were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://lp.superbuy.com.br
+Data file = /srv/users/serverpilot/apps/superbuy/public/wp-content/themes/apparatus/framework/demo-content/demo3/demo-content.xml
+Widget file = /srv/users/serverpilot/apps/superbuy/public/wp-content/themes/apparatus/framework/demo-content/demo3/widgets.wie
+Customizer file = /srv/users/serverpilot/apps/superbuy/public/wp-content/themes/apparatus/framework/demo-content/demo3/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar Widgets : 
+
+Apparatus Author Bio Widget - About CEO - Imported
+Apparatus Recent Post List - Recent Posts - Imported
+Search - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Tag Cloud - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdc/after_import---
+

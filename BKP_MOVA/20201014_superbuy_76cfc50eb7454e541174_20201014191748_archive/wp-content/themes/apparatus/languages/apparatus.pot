@@ -1,0 +1,3525 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mahveen\n"
+"POT-Creation-Date: 2019-02-09 02:29+0600\n"
+"PO-Revision-Date: 2019-03-03 21:46+0600\n"
+"Last-Translator: Fluent-Themes <common.icon.cool@gmail.com>\n"
+"Language-Team: Fluent-Themes <common.icon.cool@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html__;esc_html_e;esc_html_x;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:13
+msgid "Ooops - Page Not Found"
+msgstr ""
+
+#: 404.php:16 404.php:37
+msgid "Take Me Home"
+msgstr ""
+
+#: 404.php:33
+msgid "Sorry, we cannot find what you are looking for!"
+msgstr ""
+
+#: 404.php:34
+msgid "404 - Page Not Found"
+msgstr ""
+
+#: blog-templates/blog-layout-one.php:27 blog-templates/blog-layout-two.php:27
+msgid "Search Results for "
+msgstr ""
+
+#: blog-templates/blog-layout-one.php:35 blog-templates/blog-layout-two.php:35
+msgid "Daily Archives: "
+msgstr ""
+
+#: blog-templates/blog-layout-one.php:39 blog-templates/blog-layout-two.php:39
+msgid "Monthly Archives: "
+msgstr ""
+
+#: blog-templates/blog-layout-one.php:41 blog-templates/blog-layout-two.php:41
+msgid "F Y"
+msgstr ""
+
+#: blog-templates/blog-layout-one.php:43 blog-templates/blog-layout-two.php:43
+msgid "Yearly Archives: "
+msgstr ""
+
+#: blog-templates/blog-layout-one.php:45 blog-templates/blog-layout-two.php:45
+msgid "Y"
+msgstr ""
+
+#: blog-templates/blog-layout-one.php:47 blog-templates/blog-layout-two.php:47
+msgid "Tag Archives"
+msgstr ""
+
+#: blog-templates/blog-layout-one.php:50 blog-templates/blog-layout-two.php:50
+msgid "Articles From "
+msgstr ""
+
+#: blog-templates/blog-layout-one.php:54 blog-templates/blog-layout-two.php:54
+msgid "Articles Posted by "
+msgstr ""
+
+#: blog-templates/blog-layout-two.php:126
+#: blog-templates/blog-layout-two.php:266
+msgid "0 Comment"
+msgstr ""
+
+#: blog-templates/blog-layout-two.php:128
+#: blog-templates/blog-layout-two.php:268
+msgid " Comments"
+msgstr ""
+
+#: blog-templates/blog-layout-two.php:130
+#: blog-templates/blog-layout-two.php:270 comments.php:19
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:19
+msgid "No Comment Yet"
+msgstr ""
+
+#: comments.php:19
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:43
+msgid "Comments are closed"
+msgstr ""
+
+#: comments.php:53
+msgid "Leave A Comment"
+msgstr ""
+
+#: framework/admin/custom-fields/field_font_upload/field_upload.php:33
+#: framework/admin/custom-fields/field_slides.php:114
+#: framework/admin/custom-fields/field_slides.php:176
+#: framework/admin/options/fields/slides/field_slides.php:126
+#: framework/admin/options/fields/slides/field_slides.php:188
+#: framework/admin/options/fields/upload/field_upload.php:30
+msgid "Upload"
+msgstr ""
+
+#: framework/admin/custom-fields/field_font_upload/field_upload.php:34
+#: framework/admin/options/fields/upload/field_upload.php:31
+msgid "Remove Upload"
+msgstr ""
+
+#: framework/admin/custom-fields/field_slides.php:56
+#: framework/admin/options/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: framework/admin/custom-fields/field_slides.php:61
+#: framework/admin/options/fields/slides/field_slides.php:73
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: framework/admin/custom-fields/field_slides.php:121
+#: framework/admin/custom-fields/field_slides.php:178
+#: framework/admin/options/fields/multi_text/field_multi_text.php:31
+#: framework/admin/options/fields/multi_text/field_multi_text.php:35
+#: framework/admin/options/fields/multi_text/field_multi_text.php:38
+#: framework/admin/options/fields/slides/field_slides.php:133
+#: framework/admin/options/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: framework/admin/custom-fields/field_slides.php:133
+#: framework/admin/custom-fields/field_slides.php:188
+#: framework/admin/options/fields/slides/field_slides.php:145
+#: framework/admin/options/fields/slides/field_slides.php:200
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3563
+msgid "Title"
+msgstr ""
+
+#: framework/admin/custom-fields/field_slides.php:137
+#: framework/admin/custom-fields/field_slides.php:192
+#: framework/admin/options/fields/slides/field_slides.php:149
+#: framework/admin/options/fields/slides/field_slides.php:204
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1148
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1302
+msgid "Description"
+msgstr ""
+
+#: framework/admin/custom-fields/field_slides.php:141
+#: framework/admin/custom-fields/field_slides.php:195
+#: framework/admin/options/fields/slides/field_slides.php:153
+#: framework/admin/options/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: framework/admin/custom-fields/field_slides.php:155
+#: framework/admin/custom-fields/field_slides.php:208
+#: framework/admin/options/fields/slides/field_slides.php:167
+#: framework/admin/options/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: framework/admin/custom-fields/field_slides.php:211
+#: framework/admin/options/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: framework/admin/custom-fields/field_typography.php:30
+msgid "Family / Color"
+msgstr ""
+
+#: framework/admin/custom-fields/field_typography.php:33
+msgid "Default Fonts"
+msgstr ""
+
+#: framework/admin/custom-fields/field_typography.php:36
+msgid "Google Fonts"
+msgstr ""
+
+#: framework/admin/custom-fields/field_typography.php:57
+msgid "Size / Weight"
+msgstr ""
+
+#: framework/admin/custom-fields/field_typography.php:62
+msgid "Weight"
+msgstr ""
+
+#: framework/admin/options.php:49
+msgid "Follow me on Twitter"
+msgstr ""
+
+#: framework/admin/options.php:54
+msgid "Find me on LinkedIn"
+msgstr ""
+
+#: framework/admin/options.php:68 framework/admin/options.php:72
+msgid "Theme Options"
+msgstr ""
+
+#: framework/admin/options.php:97
+msgid "<h4>Theme Settings Information for apparatus Theme</h4>"
+msgstr ""
+
+#: framework/admin/options.php:106
+msgid "General"
+msgstr ""
+
+#: framework/admin/options.php:107
+msgid "<p class=\"description\">This is the general options.</p>"
+msgstr ""
+
+#: framework/admin/options.php:112
+msgid "Upload Favicon"
+msgstr ""
+
+#: framework/admin/options.php:113
+msgid "This is favicon. Upload 64x64 favicon icon."
+msgstr ""
+
+#: framework/admin/options.php:118
+msgid "On/Off Page Preloader"
+msgstr ""
+
+#: framework/admin/options.php:119
+msgid "On/Off Page Loader GIF"
+msgstr ""
+
+#: framework/admin/options.php:124
+msgid "Global Primary Color"
+msgstr ""
+
+#: framework/admin/options.php:129
+msgid "Global Primary Color - One"
+msgstr ""
+
+#: framework/admin/options.php:130 framework/admin/options.php:138
+msgid ""
+"\"Global Primary Color - One\" and \"Global Primary Color - Two\" should be "
+"similar color.\n"
+"\t\t\t\t\t\t\t\t\t\tFor example: White and Gray are similar color, but white "
+"and black is not similar."
+msgstr ""
+
+#: framework/admin/options.php:137
+msgid "Global Primary Color - Two"
+msgstr ""
+
+#: framework/admin/options.php:143
+msgid "Global Secondary Color"
+msgstr ""
+
+#: framework/admin/options.php:148
+msgid "Global Secondary Color - One"
+msgstr ""
+
+#: framework/admin/options.php:149 framework/admin/options.php:157
+msgid ""
+"\"Global Secondary Color - One\" and \"Global Secondary Color - Two\" should "
+"be similar color.\n"
+"\t\t\t\t\t\t\t\t\t\tFor example: White and Gray are similar color, but white "
+"and black is not similar."
+msgstr ""
+
+#: framework/admin/options.php:156
+msgid "Global Secondary Color - Two"
+msgstr ""
+
+#: framework/admin/options.php:164
+msgid "Sticky Menu Style"
+msgstr ""
+
+#: framework/admin/options.php:175
+msgid "Page Header Background Image"
+msgstr ""
+
+#: framework/admin/options.php:176
+msgid ""
+"This will be overwritten if you upload different header images for different "
+"pages using the options given later."
+msgstr ""
+
+#: framework/admin/options.php:181
+msgid "Page Header Background Image for Mobile and Tabs"
+msgstr ""
+
+#: framework/admin/options.php:182
+msgid "This page header image will be shown only in mobile and tablets."
+msgstr ""
+
+#: framework/admin/options.php:191
+msgid "Logo Settings"
+msgstr ""
+
+#: framework/admin/options.php:192
+msgid "<p class=\"description\">This is for Logo options.</p>"
+msgstr ""
+
+#: framework/admin/options.php:197
+msgid "Logo Image"
+msgstr ""
+
+#: framework/admin/options.php:198
+msgid "Upload your site logo here."
+msgstr ""
+
+#: framework/admin/options.php:204
+msgid "Logo Width"
+msgstr ""
+
+#: framework/admin/options.php:205
+msgid "Input width in pixel. Example: 60px"
+msgstr ""
+
+#: framework/admin/options.php:211
+msgid "Logo Height"
+msgstr ""
+
+#: framework/admin/options.php:212
+msgid "Input height in pixel. Example: 60px"
+msgstr ""
+
+#: framework/admin/options.php:218
+msgid "Left Padding for Logo"
+msgstr ""
+
+#: framework/admin/options.php:219 framework/admin/options.php:226
+msgid "Input padding in pixel. Example: 0px"
+msgstr ""
+
+#: framework/admin/options.php:225
+msgid "Right Padding for Logo"
+msgstr ""
+
+#: framework/admin/options.php:232
+msgid "Top Padding for Logo"
+msgstr ""
+
+#: framework/admin/options.php:233
+msgid "Input padding in pixel. Example: 7px"
+msgstr ""
+
+#: framework/admin/options.php:239
+#: the_apparatus_extensions/modules/widgets.php:237
+msgid "Text Logo"
+msgstr ""
+
+#: framework/admin/options.php:240
+msgid ""
+"You can use Text instead of Image as your site logo. You must remove the "
+"above Logo Image to make Text Logo work."
+msgstr ""
+
+#: framework/admin/options.php:246
+#: the_apparatus_extensions/modules/widgets.php:267
+msgid "Text Logo Font Size"
+msgstr ""
+
+#: framework/admin/options.php:247
+msgid "Input font-size in pixel. Example: 32px"
+msgstr ""
+
+#: framework/admin/options.php:253
+#: the_apparatus_extensions/modules/widgets.php:272
+msgid "Text Logo Color"
+msgstr ""
+
+#: framework/admin/options.php:259
+#: the_apparatus_extensions/modules/widgets.php:276
+msgid "Text Logo Background Color - Primary"
+msgstr ""
+
+#: framework/admin/options.php:260 framework/admin/options.php:267
+msgid "If you want to use default color, keep it empty."
+msgstr ""
+
+#: framework/admin/options.php:266
+#: the_apparatus_extensions/modules/widgets.php:282
+msgid "Text Logo Background Color - Secondary"
+msgstr ""
+
+#: framework/admin/options.php:273
+#: the_apparatus_extensions/modules/widgets.php:287
+msgid "Text Logo Border Radius"
+msgstr ""
+
+#: framework/admin/options.php:274
+msgid "Input border-radius in percentage. Example: 50%"
+msgstr ""
+
+#: framework/admin/options.php:286
+msgid "Social Media"
+msgstr ""
+
+#: framework/admin/options.php:287
+msgid ""
+"<p class=\"description\">This is options for setting up the social media of "
+"website. Do not forget to use http:// for any social urls.</p>"
+msgstr ""
+
+#: framework/admin/options.php:292
+#: the_apparatus_extensions/modules/vc_shortcodes.php:123
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1463
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3642
+msgid "Facebook URL"
+msgstr ""
+
+#: framework/admin/options.php:293 framework/admin/options.php:300
+#: framework/admin/options.php:307 framework/admin/options.php:314
+#: framework/admin/options.php:321 framework/admin/options.php:328
+#: framework/admin/options.php:335 framework/admin/options.php:342
+msgid "The URL to your account page"
+msgstr ""
+
+#: framework/admin/options.php:299
+#: the_apparatus_extensions/modules/vc_shortcodes.php:132
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1455
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3633
+msgid "Twitter URL"
+msgstr ""
+
+#: framework/admin/options.php:306
+msgid "Linkedin URL"
+msgstr ""
+
+#: framework/admin/options.php:313
+msgid "GooglePlus URL"
+msgstr ""
+
+#: framework/admin/options.php:320
+msgid "Flicker URL"
+msgstr ""
+
+#: framework/admin/options.php:327
+msgid "YouTube URL"
+msgstr ""
+
+#: framework/admin/options.php:334
+msgid "Instagram URL"
+msgstr ""
+
+#: framework/admin/options.php:341
+msgid "WeChat URL"
+msgstr ""
+
+#: framework/admin/options.php:354
+msgid "Footer"
+msgstr ""
+
+#: framework/admin/options.php:355
+msgid "<p class=\"description\">Options for Footer.</p>"
+msgstr ""
+
+#: framework/admin/options.php:360
+msgid "Number of Columns in Footer"
+msgstr ""
+
+#: framework/admin/options.php:361
+msgid "How Many Columns You Want in Footer?"
+msgstr ""
+
+#: framework/admin/options.php:371
+msgid "Footer Background Image"
+msgstr ""
+
+#: framework/admin/options.php:372
+msgid "Upload footer background image here."
+msgstr ""
+
+#: framework/admin/options.php:378
+msgid "Copyright Text"
+msgstr ""
+
+#: framework/admin/options.php:379
+msgid "Enter your Copyright text here"
+msgstr ""
+
+#: framework/admin/options.php:385
+msgid "Text about Author"
+msgstr ""
+
+#: framework/admin/options.php:386
+msgid "Enter your text here"
+msgstr ""
+
+#: framework/admin/options.php:398
+msgid "MailChimp/Aweber Newsletter"
+msgstr ""
+
+#: framework/admin/options.php:399
+msgid ""
+"<p class=\"description\">MailChimp and Aweber settings for footer subscriber "
+"form of apparatus</p>"
+msgstr ""
+
+#: framework/admin/options.php:404
+msgid "MailChimp API Key"
+msgstr ""
+
+#: framework/admin/options.php:405
+msgid "The unique API Key of your MailChimp account"
+msgstr ""
+
+#: framework/admin/options.php:411
+msgid "MailChimp List ID"
+msgstr ""
+
+#: framework/admin/options.php:412
+msgid "The unique List ID of your MailChimp account"
+msgstr ""
+
+#: framework/admin/options.php:418
+msgid ""
+"If you want to use Aweber instead of MailChimp use the settings below and "
+"keep the above MailChimp fields empty."
+msgstr ""
+
+#: framework/admin/options.php:423
+msgid "Aweber List ID"
+msgstr ""
+
+#: framework/admin/options.php:424
+msgid "The unique List ID of Aweber account"
+msgstr ""
+
+#: framework/admin/options.php:430
+msgid "Redirect Page URL"
+msgstr ""
+
+#: framework/admin/options.php:431
+msgid "Redirect page url after submission of Aweber form"
+msgstr ""
+
+#: framework/admin/options.php:437
+msgid "Redirect Page URL for already subscribed users"
+msgstr ""
+
+#: framework/admin/options.php:438
+msgid "Redirect page url for already subscribed users of Aweber"
+msgstr ""
+
+#: framework/admin/options.php:450
+msgid "Blog Settings"
+msgstr ""
+
+#: framework/admin/options.php:451
+msgid "<p class=\"description\">Blog Settings Page</p>"
+msgstr ""
+
+#: framework/admin/options.php:456
+msgid "Choose Blog Layout"
+msgstr ""
+
+#: framework/admin/options.php:458
+msgid "Blog Without Sidebar"
+msgstr ""
+
+#: framework/admin/options.php:459
+msgid "Blog With Sidebar"
+msgstr ""
+
+#: framework/admin/options.php:466
+msgid "Do you want Blog Header Section?"
+msgstr ""
+
+#: framework/admin/options.php:467
+msgid "Turn on to display blog header section upon the blogs."
+msgstr ""
+
+#: framework/admin/options.php:477 framework/admin/options.php:656
+msgid "Header Section Title"
+msgstr ""
+
+#: framework/admin/options.php:478 framework/admin/options.php:657
+msgid "Enter here header section title."
+msgstr ""
+
+#: framework/admin/options.php:483 framework/admin/options.php:662
+#: framework/admin/options.php:802
+msgid "Header Section Button One Label"
+msgstr ""
+
+#: framework/admin/options.php:484
+msgid "Enter here button label."
+msgstr ""
+
+#: framework/admin/options.php:489 framework/admin/options.php:668
+#: framework/admin/options.php:808
+msgid "Header Section Button One URL"
+msgstr ""
+
+#: framework/admin/options.php:490 framework/admin/options.php:502
+msgid "Enter here button url."
+msgstr ""
+
+#: framework/admin/options.php:495 framework/admin/options.php:674
+#: framework/admin/options.php:814
+msgid "Header Section Button Two Label"
+msgstr ""
+
+#: framework/admin/options.php:496
+msgid "Enter here button labe."
+msgstr ""
+
+#: framework/admin/options.php:501 framework/admin/options.php:680
+#: framework/admin/options.php:820
+msgid "Header Section Button Two URL"
+msgstr ""
+
+#: framework/admin/options.php:507 framework/admin/options.php:686
+#: framework/admin/options.php:826
+msgid "Upload Header Section Background Image"
+msgstr ""
+
+#: framework/admin/options.php:508
+msgid ""
+"Upload a Background Image, if you want to change default header section "
+"image for all Blog Page Headers"
+msgstr ""
+
+#: framework/admin/options.php:513
+msgid "Blog Headline"
+msgstr ""
+
+#: framework/admin/options.php:514
+msgid "Turn on to display headlines below the Header Section of Blog pages."
+msgstr ""
+
+#: framework/admin/options.php:524
+msgid "Blog Headline One"
+msgstr ""
+
+#: framework/admin/options.php:525 framework/admin/options.php:537
+msgid "To enable this feature turn on the Blog Headline Switch."
+msgstr ""
+
+#: framework/admin/options.php:530
+msgid "Blog Headline Two"
+msgstr ""
+
+#: framework/admin/options.php:531
+msgid ""
+"To enable this feature turn on the Blog Headline Switch. To make text thin "
+"use \"thin\" class inside span tag. Example: <span class=\"thin\">Blog</"
+"span>.To make text bold use \"<b>\" tag outside text. Example: <b>Blog</b>."
+msgstr ""
+
+#: framework/admin/options.php:536
+msgid "Blog Headline Three"
+msgstr ""
+
+#: framework/admin/options.php:542 framework/admin/options.php:700
+#: framework/admin/options.php:832
+msgid "Newsletter Section"
+msgstr ""
+
+#: framework/admin/options.php:543 framework/admin/options.php:701
+msgid "Turn on to display newsletter section."
+msgstr ""
+
+#: framework/admin/options.php:553 framework/admin/options.php:708
+#: framework/admin/options.php:843
+msgid "Newsletter Headline One"
+msgstr ""
+
+#: framework/admin/options.php:554 framework/admin/options.php:566
+#: framework/admin/options.php:709 framework/admin/options.php:721
+#: framework/admin/options.php:844 framework/admin/options.php:856
+msgid "To enable this feature turn on the Blog Newsletter Switch."
+msgstr ""
+
+#: framework/admin/options.php:559 framework/admin/options.php:714
+#: framework/admin/options.php:849
+msgid "Newsletter Headline Two"
+msgstr ""
+
+#: framework/admin/options.php:560 framework/admin/options.php:715
+#: framework/admin/options.php:850
+msgid ""
+"To enable this feature turn on the Blog Newsletter Switch. To make text thin "
+"use \"thin\" class inside span tag. Example: <span class=\"thin"
+"\">Newsletter</span>.To make text bold use \"<b>\" tag outside text. "
+"Example: <b>Newsletter</b>."
+msgstr ""
+
+#: framework/admin/options.php:565 framework/admin/options.php:720
+#: framework/admin/options.php:855
+msgid "Newsletter Headline Three"
+msgstr ""
+
+#: framework/admin/options.php:571 framework/admin/options.php:726
+#: framework/admin/options.php:861
+msgid "Upload Newsletter Section Background Image"
+msgstr ""
+
+#: framework/admin/options.php:572 framework/admin/options.php:727
+#: framework/admin/options.php:862
+msgid "(Optional)"
+msgstr ""
+
+#: framework/admin/options.php:577 framework/admin/options.php:732
+#: framework/admin/options.php:867
+msgid "Categorised Posts Section"
+msgstr ""
+
+#: framework/admin/options.php:578 framework/admin/options.php:733
+msgid "Turn on to display Categorised Posts Section."
+msgstr ""
+
+#: framework/admin/options.php:587 framework/admin/options.php:742
+#: framework/admin/options.php:877
+msgid "Categorised Blog Headline One"
+msgstr ""
+
+#: framework/admin/options.php:588 framework/admin/options.php:600
+#: framework/admin/options.php:743 framework/admin/options.php:755
+#: framework/admin/options.php:878 framework/admin/options.php:890
+msgid "To enable this feature turn on the Categorised Posts Section Switch."
+msgstr ""
+
+#: framework/admin/options.php:593 framework/admin/options.php:748
+#: framework/admin/options.php:883
+msgid "Categorised Blog Headline Two"
+msgstr ""
+
+#: framework/admin/options.php:594 framework/admin/options.php:749
+#: framework/admin/options.php:884
+msgid ""
+"To enable this feature turn on the Categorised Posts Section Switch. To make "
+"text thin use \"thin\" class inside span tag. Example: <span class=\"thin"
+"\">Blog</span>.To make text bold use \"<b>\" tag outside text. Example: "
+"<b>Blog</b>."
+msgstr ""
+
+#: framework/admin/options.php:599 framework/admin/options.php:754
+#: framework/admin/options.php:889
+msgid "Categorised Blog Headline Three"
+msgstr ""
+
+#: framework/admin/options.php:605 framework/admin/options.php:760
+#: framework/admin/options.php:895
+msgid "Category ID:"
+msgstr ""
+
+#: framework/admin/options.php:606
+msgid "Enter here numeric value only. For example: 1"
+msgstr ""
+
+#: framework/admin/options.php:611
+msgid "How many posts do you want to display?"
+msgstr ""
+
+#: framework/admin/options.php:612 framework/admin/options.php:761
+#: framework/admin/options.php:767 framework/admin/options.php:896
+#: framework/admin/options.php:902
+msgid "Enter here numeric value only."
+msgstr ""
+
+#: framework/admin/options.php:624
+msgid "Single Post Settings"
+msgstr ""
+
+#: framework/admin/options.php:625
+msgid "<p class=\"description\">Post Settings Page</p>"
+msgstr ""
+
+#: framework/admin/options.php:630
+msgid "Choose Post Layout"
+msgstr ""
+
+#: framework/admin/options.php:632
+msgid "Post Without Sidebar"
+msgstr ""
+
+#: framework/admin/options.php:633
+msgid "Post With Sidebar"
+msgstr ""
+
+#: framework/admin/options.php:640
+msgid "Capitalize Headings"
+msgstr ""
+
+#: framework/admin/options.php:641
+msgid "Make the headings Capitalized of Singple Posts."
+msgstr ""
+
+#: framework/admin/options.php:648
+msgid "Single Post Header Section"
+msgstr ""
+
+#: framework/admin/options.php:649
+msgid "Turn on to display single post header section."
+msgstr ""
+
+#: framework/admin/options.php:663 framework/admin/options.php:669
+#: framework/admin/options.php:675 framework/admin/options.php:681
+msgid "Enter here button label name."
+msgstr ""
+
+#: framework/admin/options.php:687
+msgid ""
+"Upload a Background Image, if you want to change default header section "
+"image for all Single Post headers"
+msgstr ""
+
+#: framework/admin/options.php:692
+msgid "Show Tags Below Single Posts"
+msgstr ""
+
+#: framework/admin/options.php:693
+msgid "Turn on to display post tags below each post."
+msgstr ""
+
+#: framework/admin/options.php:766 framework/admin/options.php:901
+msgid "How many posts you want to display?"
+msgstr ""
+
+#: framework/admin/options.php:773
+msgid "Post Meta for Single Posts"
+msgstr ""
+
+#: framework/admin/options.php:774
+msgid "Post Meta (date,time) for Single Posts"
+msgstr ""
+
+#: framework/admin/options.php:788
+msgid "Single Page Settings"
+msgstr ""
+
+#: framework/admin/options.php:789
+msgid ""
+"<p class=\"description\">Single Page settings for Default Page Template</p>"
+msgstr ""
+
+#: framework/admin/options.php:794
+msgid "Single Page Header Section"
+msgstr ""
+
+#: framework/admin/options.php:795
+msgid ""
+"Turn on to display Page header section (Works for those pages which are "
+"created using Default Page Template only)"
+msgstr ""
+
+#: framework/admin/options.php:803
+msgid ""
+"Enter here button text, if you want a Button in all Page Headers (Works for "
+"those pages which are created using Default Page Template only)"
+msgstr ""
+
+#: framework/admin/options.php:809
+msgid "Enter button url for the above button"
+msgstr ""
+
+#: framework/admin/options.php:815
+msgid ""
+"Enter here button text, if you want second Button in all Page Headers (Works "
+"for those pages which are created using Default Page Template only)"
+msgstr ""
+
+#: framework/admin/options.php:821
+msgid "Enter here button url for the above button"
+msgstr ""
+
+#: framework/admin/options.php:827
+msgid ""
+"Upload a Background Image, if you want to change default header section "
+"image for all Page Headers (Works for those pages which are created using "
+"Default Page Template only)"
+msgstr ""
+
+#: framework/admin/options.php:833
+msgid ""
+"Turn on to display newsletter section in all Pages (Works for those pages "
+"which are created using Default Page Template only)"
+msgstr ""
+
+#: framework/admin/options.php:868
+msgid ""
+"Turn on to display Categorised Posts Section (Works for those pages which "
+"are created using Default Page Template only)"
+msgstr ""
+
+#: framework/admin/options.php:920
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: framework/admin/options.php:921
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: framework/admin/options.php:922
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: framework/admin/options.php:924
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: framework/admin/options/defaults.php:53
+#: framework/admin/options/defaults.php:55
+msgid "Options"
+msgstr ""
+
+#: framework/admin/options/defaults.php:66
+#, php-format
+msgid ""
+"<span id=\"footer-thankyou\">Options panel created using <a href=\"%s\" "
+"target=\"_blank\">Redux Framework</a> v%s</span>"
+msgstr ""
+
+#: framework/admin/options/defaults.php:308
+msgid "Are you sure? You will lose all custom values."
+msgstr ""
+
+#: framework/admin/options/defaults.php:589
+#: framework/admin/options/defaults.php:766
+msgid "Reset to Defaults"
+msgstr ""
+
+#: framework/admin/options/defaults.php:595
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#: framework/admin/options/defaults.php:597
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#: framework/admin/options/defaults.php:602
+msgid "<strong>Settings have changed, you should save them!</strong>"
+msgstr ""
+
+#: framework/admin/options/defaults.php:603
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#: framework/admin/options/defaults.php:604
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#: framework/admin/options/defaults.php:637
+msgid "Import / Export"
+msgstr ""
+
+#: framework/admin/options/defaults.php:668
+#: framework/admin/options/defaults.php:741
+msgid "Dev Mode Info"
+msgstr ""
+
+#: framework/admin/options/defaults.php:686
+msgid "Import / Export Options"
+msgstr ""
+
+#: framework/admin/options/defaults.php:687
+msgid "Import Options"
+msgstr ""
+
+#: framework/admin/options/defaults.php:688
+msgid "Import from file"
+msgstr ""
+
+#: framework/admin/options/defaults.php:688
+msgid "Import from URL"
+msgstr ""
+
+#: framework/admin/options/defaults.php:693
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: framework/admin/options/defaults.php:703
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: framework/admin/options/defaults.php:710
+#: the_apparatus_extensions/one-click-demo-content/views/plugin-page.php:167
+msgid "Import"
+msgstr ""
+
+#: framework/admin/options/defaults.php:710
+msgid ""
+"WARNING! This will overwrite any existing options, please proceed with "
+"caution!"
+msgstr ""
+
+#: framework/admin/options/defaults.php:713
+msgid "Export Options"
+msgstr ""
+
+#: framework/admin/options/defaults.php:715
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: framework/admin/options/defaults.php:718
+msgid "Copy"
+msgstr ""
+
+#: framework/admin/options/defaults.php:718
+msgid "Copy Link"
+msgstr ""
+
+#: framework/admin/options/fields/color_gradient/field_color_gradient.php:28
+#: framework/admin/options/fields/color_gradient/field_color_gradient.php:33
+msgid "From:"
+msgstr ""
+
+#: framework/admin/options/fields/color_gradient/field_color_gradient.php:29
+msgid "To:"
+msgstr ""
+
+#: framework/admin/options/fields/color_gradient/field_color_gradient.php:35
+msgid " To:"
+msgstr ""
+
+#: framework/admin/options/fields/google_webfonts/field_google_webfonts.php:25
+msgid ""
+"The fonts provided below are free to use custom fonts from Google Web Fonts "
+"directory"
+msgstr ""
+
+#: framework/admin/options/fields/multi_text/field_multi_text.php:40
+msgid "Add More"
+msgstr ""
+
+#: framework/admin/options/validation/color/validation_color.php:13
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: framework/admin/options/validation/comma_numeric/validation_comma_numeric.php:13
+msgid ""
+"You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: framework/admin/options/validation/date/validation_date.php:13
+msgid "This field must be a valid date."
+msgstr ""
+
+#: framework/admin/options/validation/email/validation_email.php:13
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: framework/admin/options/validation/no_html/validation_no_html.php:13
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: framework/admin/options/validation/no_special_chars/validation_no_special_chars.php:13
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: framework/admin/options/validation/numeric/validation_numeric.php:13
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: framework/admin/options/validation/url/validation_url.php:13
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: framework/demo-content/demo-content.php:14
+msgid ""
+"After you import this demo, you will have to import theme-options data "
+"separately. Get the Theme-Options Data <a style=\"font-weight:bold;\" target="
+"\"_blank\" href=\"https://fluentthemes.com/wp/appeasy-demo-content/theme-"
+"options/theme-options-demo1.html\">From Here</a>. Then Copay and Save the "
+"data in your PC and you will be able to use that saved data later to import "
+"theme-options separately."
+msgstr ""
+
+#: framework/demo-content/demo-content.php:24
+msgid ""
+"After you import this demo, you will have to import theme-options data "
+"separately. Get the Theme-Options Data <a style=\"font-weight:bold;\" target="
+"\"_blank\" href=\"https://fluentthemes.com/wp/appeasy-demo-content/theme-"
+"options/theme-options-demo2.html\">From Here</a>. Then Copay and Save the "
+"data in your PC and you will be able to use that saved data later to import "
+"theme-options separately."
+msgstr ""
+
+#: framework/demo-content/demo-content.php:34
+msgid ""
+"After you import this demo, you will have to import theme-options data "
+"separately. Get the Theme-Options Data <a style=\"font-weight:bold;\" target="
+"\"_blank\" href=\"https://fluentthemes.com/wp/appeasy-demo-content/theme-"
+"options/theme-options-demo3.html\">From Here</a>. Then Copay and Save the "
+"data in your PC and you will be able to use that saved data later to import "
+"theme-options separately."
+msgstr ""
+
+#: framework/demo-content/demo-content.php:44
+msgid ""
+"After you import this demo, you will have to import theme-options data "
+"separately. Get the Theme-Options Data <a style=\"font-weight:bold;\" target="
+"\"_blank\" href=\"https://fluentthemes.com/wp/appeasy-demo-content/theme-"
+"options/theme-options-demo4.html\">From Here</a>. Then Copay and Save the "
+"data in your PC and you will be able to use that saved data later to import "
+"theme-options separately."
+msgstr ""
+
+#: framework/demo-content/demo-content.php:54
+msgid ""
+"After you import this demo, you will have to import theme-options data "
+"separately. Get the Theme-Options Data <a style=\"font-weight:bold;\" target="
+"\"_blank\" href=\"https://fluentthemes.com/wp/appeasy-demo-content/theme-"
+"options/theme-options-demo5.html\">From Here</a>. Then Copay and Save the "
+"data in your PC and you will be able to use that saved data later to import "
+"theme-options separately."
+msgstr ""
+
+#: framework/demo-content/demo-content.php:64
+msgid ""
+"After you import this demo, you will have to import theme-options data "
+"separately. Get the Theme-Options Data <a style=\"font-weight:bold;\" target="
+"\"_blank\" href=\"https://fluentthemes.com/wp/appeasy-demo-content/theme-"
+"options/theme-options-demo6.html\">From Here</a>. Then Copay and Save the "
+"data in your PC and you will be able to use that saved data later to import "
+"theme-options separately."
+msgstr ""
+
+#: framework/demo-content/demo-content.php:74
+msgid ""
+"After you import this demo, you will have to import theme-options data "
+"separately. Get the Theme-Options Data <a style=\"font-weight:bold;\" target="
+"\"_blank\" href=\"https://fluentthemes.com/wp/appeasy-demo-content/theme-"
+"options/theme-options-demo7.html\">From Here</a>. Then Copay and Save the "
+"data in your PC and you will be able to use that saved data later to import "
+"theme-options separately."
+msgstr ""
+
+#: framework/demo-content/demo-content.php:84
+msgid ""
+"After you import this demo, you will have to import theme-options data "
+"separately. Get the Theme-Options Data <a style=\"font-weight:bold;\" target="
+"\"_blank\" href=\"https://fluentthemes.com/wp/appeasy-demo-content/theme-"
+"options/theme-options-demo8.html\">From Here</a>. Then Copay and Save the "
+"data in your PC and you will be able to use that saved data later to import "
+"theme-options separately."
+msgstr ""
+
+#: framework/demo-content/demo-content.php:94
+msgid ""
+"After you import this demo, you will have to import theme-options data "
+"separately. Get the Theme-Options Data <a style=\"font-weight:bold;\" target="
+"\"_blank\" href=\"https://fluentthemes.com/wp/appeasy-demo-content/theme-"
+"options/theme-options-demo9.html\">From Here</a>. Then Copay and Save the "
+"data in your PC and you will be able to use that saved data later to import "
+"theme-options separately."
+msgstr ""
+
+#: framework/demo-content/demo-content.php:104
+msgid ""
+"After you import this demo, you will have to import theme-options data "
+"separately. Get the Theme-Options Data <a style=\"font-weight:bold;\" target="
+"\"_blank\" href=\"https://fluentthemes.com/wp/appeasy-demo-content/theme-"
+"options/theme-options-demo10.html\">From Here</a>. Then Copay and Save the "
+"data in your PC and you will be able to use that saved data later to import "
+"theme-options separately."
+msgstr ""
+
+#: framework/init.php:23
+msgid "Main Menu"
+msgstr ""
+
+#: framework/plugins.php:8
+msgid "WPBakery Page Builder"
+msgstr ""
+
+#: framework/plugins.php:18
+msgid "The apparatus Extensions"
+msgstr ""
+
+#: framework/plugins.php:47
+#: framework/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/plugins.php:48
+#: framework/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: framework/plugins.php:49
+#: framework/plugins/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/plugins.php:50
+#: framework/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/plugins.php:61
+#: framework/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/plugins.php:62
+#: framework/plugins/class-tgm-plugin-activation.php:394
+#: framework/plugins/class-tgm-plugin-activation.php:3254
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/plugins.php:63
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: framework/plugins/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:393
+#: framework/plugins/class-tgm-plugin-activation.php:922
+#: framework/plugins/class-tgm-plugin-activation.php:2628
+#: framework/plugins/class-tgm-plugin-activation.php:3675
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/plugins/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/plugins/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: framework/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1029
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1029
+#: framework/plugins/class-tgm-plugin-activation.php:1032
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1032
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1216
+#: framework/plugins/class-tgm-plugin-activation.php:3043
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: framework/plugins/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2368
+msgid "Required"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2371
+msgid "Recommended"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2387
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2390
+msgid "External Source"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2393
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2410
+msgid "Not Installed"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2414
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2416
+msgid "Active"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2422
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2425
+msgid "Requires Update"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2428
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: framework/plugins/class-tgm-plugin-activation.php:2437
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2577
+msgid "unknown"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2585
+msgid "Installed version:"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2593
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2605
+msgid "Available version:"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2628
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2642
+msgid "Plugin"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2643
+msgid "Source"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2644
+msgid "Type"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2648
+msgid "Version"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2649
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/plugins/class-tgm-plugin-activation.php:2698
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/plugins/class-tgm-plugin-activation.php:2703
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/plugins/class-tgm-plugin-activation.php:2709
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2779
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2812
+msgid "Install"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2818
+msgid "Update"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2821
+msgid "Activate"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2854
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2897
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3003
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3029
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3253
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/plugins/class-tgm-plugin-activation.php:3593
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: framework/plugins/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/plugins/class-tgm-plugin-activation.php:3598
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3602
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/plugins/class-tgm-plugin-activation.php:3604
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3604
+#: framework/plugins/class-tgm-plugin-activation.php:3612
+msgid "Show Details"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3604
+#: framework/plugins/class-tgm-plugin-activation.php:3612
+msgid "Hide Details"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3605
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/plugins/class-tgm-plugin-activation.php:3607
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3610
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/plugins/class-tgm-plugin-activation.php:3612
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3613
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/plugins/class-tgm-plugin-activation.php:3615
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: gutenberg/gutenberg-functions.php:19
+msgid "Primary Color"
+msgstr ""
+
+#: header.php:79
+msgid "Setup Your Menu from \"Appearance - Menus\" page of your WP-Admin Panel"
+msgstr ""
+
+#: inc/theme-functions.php:414
+msgid "Reply <i class=\"fas fa-reply\"></i>"
+msgstr ""
+
+#: inc/theme-functions.php:441
+msgid "Name*"
+msgstr ""
+
+#: inc/theme-functions.php:447
+msgid "Email*"
+msgstr ""
+
+#: inc/theme-functions.php:460 inc/theme-functions.php:472
+msgid "Your Comment"
+msgstr ""
+
+#: inc/theme-functions.php:485 inc/theme-functions.php:498
+msgid "Post Comment"
+msgstr ""
+
+#: inc/vc-shortcodes.php:7
+msgid "Want to have top padding?"
+msgstr ""
+
+#: inc/vc-shortcodes.php:10
+msgid "Input top padding in pixel (i.e 50px)."
+msgstr ""
+
+#: inc/vc-shortcodes.php:16
+msgid "Want to have bottom padding?"
+msgstr ""
+
+#: inc/vc-shortcodes.php:19
+msgid "Input bottom padding in pixel (i.e 50px)."
+msgstr ""
+
+#: inc/vc-shortcodes.php:25
+msgid "Want to have left padding?"
+msgstr ""
+
+#: inc/vc-shortcodes.php:28
+msgid "Input left padding in pixel (i.e 50px)."
+msgstr ""
+
+#: inc/vc-shortcodes.php:34
+msgid "Want to have right padding?"
+msgstr ""
+
+#: inc/vc-shortcodes.php:37
+msgid "Input right padding in pixel (i.e 50px)."
+msgstr ""
+
+#: inc/vc-shortcodes.php:45
+msgid "Play text color"
+msgstr ""
+
+#: inc/widgets.php:8
+msgid "Blog Sidebar Widgets"
+msgstr ""
+
+#: inc/widgets.php:16
+msgid "1 Column Footer Widgets"
+msgstr ""
+
+#: inc/widgets.php:24
+msgid "2 Column Footer Widgets"
+msgstr ""
+
+#: searchform.php:2
+msgid "Search.."
+msgstr ""
+
+#: single.php:105
+msgid "Pages:"
+msgstr ""
+
+#: single.php:109
+msgid "Page"
+msgstr ""
+
+#: single.php:118
+msgid "Tags"
+msgstr ""
+
+#: the_apparatus_extensions/modules/apparatus-metabox.php:9
+#: the_apparatus_extensions/modules/apparatus-metabox.php:37
+msgid "Post Second Title"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:12
+msgid "FT- Header Section- 1"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:16
+#: the_apparatus_extensions/modules/vc_shortcodes.php:440
+#: the_apparatus_extensions/modules/vc_shortcodes.php:838
+#: the_apparatus_extensions/modules/vc_shortcodes.php:924
+#: the_apparatus_extensions/modules/vc_shortcodes.php:994
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1115
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1269
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1423
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1524
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1678
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3094
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3120
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3298
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3506
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3593
+msgid "by Fluent-Themes Shortcodes"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:19
+#: the_apparatus_extensions/modules/vc_shortcodes.php:443
+msgid "Shows Header Section."
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:24
+#: the_apparatus_extensions/modules/vc_shortcodes.php:159
+#: the_apparatus_extensions/modules/vc_shortcodes.php:448
+#: the_apparatus_extensions/modules/vc_shortcodes.php:557
+#: the_apparatus_extensions/modules/vc_shortcodes.php:846
+#: the_apparatus_extensions/modules/vc_shortcodes.php:940
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1003
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1124
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1278
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3601
+msgid "Heading Line 1"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:33
+#: the_apparatus_extensions/modules/vc_shortcodes.php:168
+#: the_apparatus_extensions/modules/vc_shortcodes.php:457
+#: the_apparatus_extensions/modules/vc_shortcodes.php:566
+#: the_apparatus_extensions/modules/vc_shortcodes.php:854
+#: the_apparatus_extensions/modules/vc_shortcodes.php:948
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1011
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1132
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1286
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3609
+msgid "Heading Line 2"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:42
+#: the_apparatus_extensions/modules/vc_shortcodes.php:177
+#: the_apparatus_extensions/modules/vc_shortcodes.php:466
+#: the_apparatus_extensions/modules/vc_shortcodes.php:575
+#: the_apparatus_extensions/modules/vc_shortcodes.php:862
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1019
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1140
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1294
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3617
+msgid "Which word do you want to thin from heading line 2?"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:45
+#: the_apparatus_extensions/modules/vc_shortcodes.php:180
+#: the_apparatus_extensions/modules/vc_shortcodes.php:469
+#: the_apparatus_extensions/modules/vc_shortcodes.php:578
+#: the_apparatus_extensions/modules/vc_shortcodes.php:865
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1022
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1143
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1297
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1552
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1706
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3620
+msgid "Use comma(,) for seperate words."
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:51
+#: the_apparatus_extensions/modules/vc_shortcodes.php:475
+msgid "Tooltip Text"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:60
+#: the_apparatus_extensions/modules/vc_shortcodes.php:493
+#: the_apparatus_extensions/modules/vc_shortcodes.php:932
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1188
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1342
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1431
+msgid "Attach Image"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:69
+#: the_apparatus_extensions/modules/vc_shortcodes.php:502
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1052
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3833
+msgid "Attach Background Image"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:78
+#: the_apparatus_extensions/modules/vc_shortcodes.php:511
+msgid "Attach Background Image for Mobile/Tablets view."
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:87
+#: the_apparatus_extensions/modules/vc_shortcodes.php:520
+msgid "Button one Name"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:96
+#: the_apparatus_extensions/modules/vc_shortcodes.php:529
+msgid "Button one URL"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:105
+#: the_apparatus_extensions/modules/vc_shortcodes.php:538
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1172
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1326
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1581
+msgid "Button Two Name"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:114
+#: the_apparatus_extensions/modules/vc_shortcodes.php:547
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1180
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1334
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1589
+msgid "Button Two URL"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:141
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1471
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3651
+msgid "Dribble URL"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:150
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1479
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3660
+msgid "Behance URL"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:187
+#: the_apparatus_extensions/modules/vc_shortcodes.php:585
+#: the_apparatus_extensions/modules/vc_shortcodes.php:870
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1027
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3625
+msgid "Heading Line 3"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:197
+#: the_apparatus_extensions/modules/vc_shortcodes.php:595
+msgid "Feature Box one Step Number"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:206
+#: the_apparatus_extensions/modules/vc_shortcodes.php:604
+msgid "Feature Box one Title"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:215
+#: the_apparatus_extensions/modules/vc_shortcodes.php:613
+msgid "Feature Box one Description"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:224
+#: the_apparatus_extensions/modules/vc_shortcodes.php:622
+msgid "Feature Box Two Step Number"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:233
+#: the_apparatus_extensions/modules/vc_shortcodes.php:631
+msgid "Feature Box Two Title"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:242
+#: the_apparatus_extensions/modules/vc_shortcodes.php:640
+msgid "Feature Box Two Description"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:251
+#: the_apparatus_extensions/modules/vc_shortcodes.php:649
+msgid "Feature Box Three Step Number"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:260
+#: the_apparatus_extensions/modules/vc_shortcodes.php:658
+msgid "Feature Box Three Title"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:269
+#: the_apparatus_extensions/modules/vc_shortcodes.php:667
+msgid "Feature Box Three Description"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:278
+#: the_apparatus_extensions/modules/vc_shortcodes.php:676
+msgid "Feature Box Four Step Number"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:287
+#: the_apparatus_extensions/modules/vc_shortcodes.php:685
+msgid "Feature Box Four Title"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:296
+#: the_apparatus_extensions/modules/vc_shortcodes.php:694
+msgid "Feature Box Four Description"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:305
+#: the_apparatus_extensions/modules/vc_shortcodes.php:703
+#: the_apparatus_extensions/modules/vc_shortcodes.php:878
+#: the_apparatus_extensions/modules/vc_shortcodes.php:957
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1043
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1196
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1350
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1487
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1605
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3021
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3217
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3447
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3841
+msgid "Unique CSS class name"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:308
+#: the_apparatus_extensions/modules/vc_shortcodes.php:706
+#: the_apparatus_extensions/modules/vc_shortcodes.php:881
+#: the_apparatus_extensions/modules/vc_shortcodes.php:960
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1046
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1199
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1353
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1490
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1608
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3024
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3220
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3450
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3844
+msgid "Enter here unique css class name to enable all Design-Options."
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:314
+#: the_apparatus_extensions/modules/vc_shortcodes.php:712
+msgid "Section one Heading one color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:323
+#: the_apparatus_extensions/modules/vc_shortcodes.php:721
+msgid "Section one Heading Two color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:332
+#: the_apparatus_extensions/modules/vc_shortcodes.php:730
+msgid "Section one Heading Three color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:341
+#: the_apparatus_extensions/modules/vc_shortcodes.php:739
+msgid "Section one Button one primary color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:350
+#: the_apparatus_extensions/modules/vc_shortcodes.php:748
+msgid "Section one Button one secondary color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:359
+#: the_apparatus_extensions/modules/vc_shortcodes.php:757
+msgid "Section one Link Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:368
+#: the_apparatus_extensions/modules/vc_shortcodes.php:766
+msgid "Section Two Heading One Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:377
+#: the_apparatus_extensions/modules/vc_shortcodes.php:775
+msgid "Section Two Heading Two Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:386
+#: the_apparatus_extensions/modules/vc_shortcodes.php:784
+msgid "Section Two Heading Three Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:395
+#: the_apparatus_extensions/modules/vc_shortcodes.php:793
+msgid "Feature Box Step Primary Background Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:404
+#: the_apparatus_extensions/modules/vc_shortcodes.php:802
+msgid "Feature Box Step Secondary Background Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:413
+#: the_apparatus_extensions/modules/vc_shortcodes.php:811
+msgid "Feature Box Title Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:422
+#: the_apparatus_extensions/modules/vc_shortcodes.php:820
+msgid "Feature Box Desc Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:436
+msgid "FT- Header Section- 2"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:484
+msgid "Tooltip URL"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:834
+msgid "FT- Headline Section- 1"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:841
+msgid "Shows Headlines"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:887
+#: the_apparatus_extensions/modules/vc_shortcodes.php:966
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1061
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1206
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1360
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3850
+msgid "Headline One Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:896
+#: the_apparatus_extensions/modules/vc_shortcodes.php:975
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1070
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1215
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1369
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3859
+msgid "Headline Two Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:905
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1079
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3868
+msgid "Headline Three Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:920
+msgid "FT- Feature Box- 1"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:927
+msgid "Shows Feature Box"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:990
+msgid "FT- Video Section- 1"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:997
+msgid "Shows Video Section"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1035
+msgid "Youtube Video URL"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1055
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1600
+msgid "Optional"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1088
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3877
+msgid "Button Primary Background Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1097
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3886
+msgid "Button Secondary Background Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1111
+msgid "FT- What we offer section- 1"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1118
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1272
+msgid "Shows what we offer section."
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1156
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1310
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1565
+msgid "Button One Name"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1164
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1318
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1573
+msgid "Button One URL"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1224
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1378
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3049
+msgid "Description Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1233
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1387
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1642
+msgid "Button One Primary Background Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1242
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1396
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1651
+msgid "Button One Secondary Background Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1251
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1405
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1660
+msgid "Button Two Link Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1265
+msgid "FT- What we offer section- 2"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1419
+msgid "FT- Team Member Box- 1"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1426
+msgid "Shows Team Member Box."
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1439
+msgid "Name"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1447
+msgid "Designation"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1497
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3031
+msgid "Name Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1506
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3040
+msgid "Designation Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1520
+msgid "FT- Call to Action- 1"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1527
+msgid "Shows Call to Action."
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1533
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1687
+msgid "Headline One"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1541
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1695
+msgid "Headline Two"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1549
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1703
+msgid "Which word do you want to thin from heading line two?"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1557
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1711
+msgid "Headline Three"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1597
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3456
+msgid "Section Background Image"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1615
+msgid "Heading One Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1624
+msgid "Heading Two Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1633
+msgid "Heading Three Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1674
+msgid "FT- Testimonial Slider- 1"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1681
+msgid "Shows Testimonial Slider Section."
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1719
+msgid "Arrow Title"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1727
+msgid "Number of Testimonial"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1731
+msgid "One"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1732
+msgid "Two"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1733
+msgid "Three"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1734
+msgid "Four"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1735
+msgid "Five"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1736
+msgid "Six"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1737
+msgid "Seven"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1738
+msgid "Eight"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1739
+msgid "Nine"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1740
+msgid "Ten"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1741
+msgid "Eleven"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1742
+msgid "Twelve"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1743
+msgid "Thirteen"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1744
+msgid "Fourteen"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1745
+msgid "Fifteen"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1751
+msgid "Name 1"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1778
+msgid "Designation 1"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1805
+msgid "Description 1"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1832
+msgid "Image 1 URL"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1860
+msgid "Name 2"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1887
+msgid "Designation 2"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1914
+msgid "Description 2"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1941
+msgid "Image 2 URL"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1969
+msgid "Name 3"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:1995
+msgid "Designation 3"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2021
+msgid "Description 3"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2047
+msgid "Image 3 URL"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2074
+msgid "Name 4"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2099
+msgid "Designation 4"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2124
+msgid "Description 4"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2149
+msgid "Image 4 URL"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2175
+msgid "Name 5"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2199
+msgid "Designation 5"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2223
+msgid "Description 5"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2247
+msgid "Image 5 URL"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2272
+msgid "Name 6"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2295
+msgid "Designation 6"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2318
+msgid "Description 6"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2341
+msgid "Image 6 URL"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2365
+msgid "Name 7"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2387
+msgid "Designation 7"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2409
+msgid "Description 7"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2431
+msgid "Image 7 URL"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2454
+msgid "Name 8"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2475
+msgid "Designation 8"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2496
+msgid "Description 8"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2517
+msgid "Image 8 URL"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2539
+msgid "Name 9"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2559
+msgid "Designation 9"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2579
+msgid "Description 9"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2599
+msgid "Image 9 URL"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2620
+msgid "Name 10"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2639
+msgid "Designation 10"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2658
+msgid "Description 10"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2677
+msgid "Image 10 URL"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2697
+msgid "Name 11"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2715
+msgid "Designation 11"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2733
+msgid "Description 11"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2751
+msgid "Image 11 URL"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2770
+msgid "Name 12"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2787
+msgid "Designation 12"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2804
+msgid "Description 12"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2821
+msgid "Image 12 URL"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2839
+msgid "Name 13"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2855
+msgid "Designation 13"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2871
+msgid "Description 13"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2887
+msgid "Image 13 URL"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2904
+msgid "Name 14"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2919
+msgid "Designation 14"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2934
+msgid "Description 14"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2949
+msgid "Image 14 URL"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2965
+msgid "Name 15"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2979
+msgid "Designation 15"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:2993
+msgid "Description 15"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3007
+msgid "Image 15 URL"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3058
+msgid "Arrow Button Primary Background Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3067
+msgid "Arrow Button Secondary Background Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3076
+msgid "Arrow Title Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3090
+msgid "FT- Clients Logo Slider- 1"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3097
+msgid "Shows Clients logo slider"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3102
+msgid "Attach Clients Logo"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3116
+msgid "FT- Price Table- 1"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3123
+msgid "Shows Price Table"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3128
+msgid "Plan Name"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3136
+msgid "Plan Description"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3144
+msgid "Plan Currency"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3152
+msgid "Plan Price"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3160
+msgid "Plan Duration"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3168
+msgid "Plan Features"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3171
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3179
+msgid "Per New feature in new line."
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3176
+msgid "Disable Features"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3184
+msgid "Plan Button Name"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3191
+msgid "Plan Button Icon"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3204
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3318
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3353
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3389
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3424
+msgid "Select icon from library."
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3209
+msgid "Plan Button URL"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3226
+msgid "Price Table Background Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3235
+msgid "Plan Name Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3244
+msgid "Plan Description Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3253
+msgid "Plan Price Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3262
+msgid "Plan Features Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3271
+msgid "Plan Button Primary Background Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3280
+msgid "Plan Button Secondary Background Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3294
+msgid "FT- Counter Section- 1"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3301
+msgid "Shows Counter Section."
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3305
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3340
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3376
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3411
+msgid "Counter Icon"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3323
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3358
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3394
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3429
+msgid "Counter Number"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3332
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3367
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3403
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3438
+msgid "Counter Title"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3465
+msgid "Icon Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3474
+msgid "Counter Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3483
+msgid "Title Color"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3502
+msgid "FT- Categorised Blog- 1"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3509
+msgid "Shows the category wise blog."
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3514
+msgid "Which Category Post do you want to display?"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3522
+msgid "How many post do you want to display?"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3530
+msgid "How many character do you want to display?"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3542
+msgid "DESC"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3546
+msgid "ASC"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3549
+msgid "Order"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3559
+msgid "Date"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3567
+msgid "Random"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3571
+msgid "ID"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3575
+msgid "Sort Post By Order"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3589
+msgid "FT- Contact us- 1"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3596
+msgid "Shows the contact us section."
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3669
+msgid "Recipient Name"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3678
+msgid "Recipient Email"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3687
+msgid "Email Subject"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3696
+msgid "Name Field Placeholder"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3705
+msgid "Email Field Placeholder"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3715
+msgid "Message Field Placeholder"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3725
+msgid "Do you want Select options?"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3737
+msgid "Placeholder For Select"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3749
+msgid "Add items comma separated"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3761
+msgid "Do you want Radio options?"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3773
+msgid "Placeholder For Radio"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3785
+msgid "Add radio items comma separated"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3797
+msgid "Do you want Checkbox options?"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3809
+msgid "Placeholder For Checkbox"
+msgstr ""
+
+#: the_apparatus_extensions/modules/vc_shortcodes.php:3821
+msgid "Add checkbox items comma separated"
+msgstr ""
+
+#: the_apparatus_extensions/modules/widgets.php:20
+msgid "Add a custom Nav menu to your footer."
+msgstr ""
+
+#: the_apparatus_extensions/modules/widgets.php:21
+msgid "apparatus Footer Navigation"
+msgstr ""
+
+#: the_apparatus_extensions/modules/widgets.php:115
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: the_apparatus_extensions/modules/widgets.php:128
+msgid "Title:"
+msgstr ""
+
+#: the_apparatus_extensions/modules/widgets.php:132
+msgid "Menu Name:"
+msgstr ""
+
+#: the_apparatus_extensions/modules/widgets.php:134
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: the_apparatus_extensions/modules/widgets.php:143
+msgid "Menu Class:"
+msgstr ""
+
+#: the_apparatus_extensions/modules/widgets.php:145
+msgid "Enter here class \"footer-nav\" for footer navigation"
+msgstr ""
+
+#: the_apparatus_extensions/modules/widgets.php:168
+msgid "apparatus Text Logo"
+msgstr ""
+
+#: the_apparatus_extensions/modules/widgets.php:169
+msgid "Displays a Text Logo"
+msgstr ""
+
+#: the_apparatus_extensions/modules/widgets.php:242
+msgid "Text Logo Width"
+msgstr ""
+
+#: the_apparatus_extensions/modules/widgets.php:247
+msgid "Text Logo Height"
+msgstr ""
+
+#: the_apparatus_extensions/modules/widgets.php:252
+msgid "Text Logo Left Padding"
+msgstr ""
+
+#: the_apparatus_extensions/modules/widgets.php:257
+msgid "Text Logo Right Padding"
+msgstr ""
+
+#: the_apparatus_extensions/modules/widgets.php:262
+msgid "Text Logo Top Padding"
+msgstr ""
+
+#: the_apparatus_extensions/modules/widgets.php:292
+msgid "Link to:"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/CustomizerImporter.php:37
+#: the_apparatus_extensions/one-click-demo-content/inc/CustomizerImporter.php:45
+msgid "Importing customizer settings"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/CustomizerImporter.php:43
+msgid "Customizer settings import finished!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/CustomizerImporter.php:73
+#, php-format
+msgid "Error: The customizer import file is missing! File path: %s"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/CustomizerImporter.php:93
+msgid ""
+"Error: The customizer import file is not in a correct format. Please make "
+"sure to use the correct customizer import file."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/CustomizerImporter.php:99
+msgid ""
+"Error: The customizer import file is not suitable for current theme. You can "
+"only import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/Downloader.php:58
+msgid "Missing URL for downloading a file!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/Downloader.php:76
+#, php-format
+msgid ""
+"An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s - "
+"%6$s."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:197
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:240
+#, php-format
+msgid ""
+"An error occurred while writing file to your server! Tried to write a file "
+"to: %s%s."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:274
+#, php-format
+msgid ""
+"An error occurred while reading a file from your server! Tried reading file "
+"from path: %s%s."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:297
+#, php-format
+msgid ""
+"This WordPress page does not have %sdirect%s write file access. This plugin "
+"needs it in order to save the demo import xml file to the upload directory "
+"of your site. You can change this setting with these instructions: %s."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:308
+#: the_apparatus_extensions/one-click-demo-content/inc/OneClickDemoImport.php:131
+msgid "One Click Demo Import"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:309
+#: the_apparatus_extensions/one-click-demo-content/views/plugin-page.php:107
+#: the_apparatus_extensions/one-click-demo-content/views/plugin-page.php:119
+msgid "Import Demo Data"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:321
+msgid ""
+"An error occurred while retrieving reading/writing permissions to your "
+"server (could not retrieve WP filesystem credentials)!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:329
+msgid "Your WordPress login credentials don't allow to use WP_Filesystem!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:369
+msgid "One Click Demo Import - "
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:403
+#, php-format
+msgid ""
+"%sYour user role isn't high enough. You don't have permission to import demo "
+"data.%s"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:449
+#, php-format
+msgid "Content file was not uploaded. Error: %s"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:453
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:470
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:487
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:498
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:518
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:526
+msgid "Upload files"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:466
+#, php-format
+msgid "Widget file was not uploaded. Error: %s"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:483
+#, php-format
+msgid "Customizer file was not uploaded. Error: %s"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:496
+msgid "Missing Redux option name! Please also enter the Redux option name!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:514
+#, php-format
+msgid "Redux file was not uploaded. Error: %s"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:524
+msgid "The import files were successfully uploaded!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:550
+#, php-format
+msgid "Initial max execution time = %s"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:554
+#, php-format
+msgid ""
+"Files info:%1$sSite URL = %2$s%1$sData file = %3$s%1$sWidget file = %4$s"
+"%1$sCustomizer file = %5$s%1$sRedux files:%1$s%6$s"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:557
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:558
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:559
+#: the_apparatus_extensions/one-click-demo-content/inc/Helpers.php:560
+msgid "not defined!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/Importer.php:172
+msgid "New AJAX call!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/OneClickDemoImport.php:132
+msgid "Import Demo"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/OneClickDemoImport.php:183
+msgid "No preview image defined for this import."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/OneClickDemoImport.php:184
+msgid "Are you sure?"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/OneClickDemoImport.php:185
+msgid "Cancel"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/OneClickDemoImport.php:186
+msgid "Yes, import!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/OneClickDemoImport.php:187
+msgid "Selected demo import:"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/OneClickDemoImport.php:234
+msgid "Manually uploaded files"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/OneClickDemoImport.php:247
+#: the_apparatus_extensions/one-click-demo-content/inc/OneClickDemoImport.php:258
+msgid "Downloaded files"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/OneClickDemoImport.php:254
+#, php-format
+msgid "The import files for: %s were successfully downloaded!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/OneClickDemoImport.php:263
+msgid "No import files specified!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/OneClickDemoImport.php:384
+msgid ""
+"Just used One Click Demo Import plugin and it was awesome! Thanks "
+"@FluentThemes! #OCDC https://www.fluentthemes.com/"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/OneClickDemoImport.php:387
+#, php-format
+msgid ""
+"%1$s%6$sWasn't this a great One Click Demo Import experience?%7$s Created "
+"and maintained by %3$sFluentThemes%4$s. %2$s%5$sClick to Tweet!%4$s%8$s"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/OneClickDemoImport.php:400
+#, php-format
+msgid ""
+"%1$s%3$sThat's it, all done!%4$s%2$sThe demo import has finished. Please "
+"check your page and make sure that everything has imported correctly. If it "
+"did, you can deactivate the %3$sOne Click Demo Import%4$s plugin, because it "
+"has done its job.%5$s"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/OneClickDemoImport.php:411
+#, php-format
+msgid ""
+"%1$sThe demo import has finished, but there were some import errors.%2$sMore "
+"details about the errors can be found in this %3$s%5$slog file%6$s%4$s%7$s"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/ReduxImporter.php:23
+msgid "The Redux plugin is not activated, so the Redux import was skipped!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/ReduxImporter.php:32
+#: the_apparatus_extensions/one-click-demo-content/inc/ReduxImporter.php:53
+#: the_apparatus_extensions/one-click-demo-content/inc/ReduxImporter.php:66
+msgid "Importing Redux settings"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/ReduxImporter.php:51
+#, php-format
+msgid "Redux settings import for: %s finished successfully!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/ReduxImporter.php:57
+#, php-format
+msgid ""
+"The Redux option name: %s, was not found in this WP site, so it was not "
+"imported!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WPCLICommands.php:34
+msgid "There are no predefined demo imports for currently active theme!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WPCLICommands.php:37
+msgid "Here are the predefined demo imports:"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WPCLICommands.php:71
+msgid ""
+"At least one of the possible options should be set! Check them with --help"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WPCLICommands.php:122
+msgid ""
+"The \"predefined\" parameter should be a number (an index of the OCDC "
+"predefined demo import)!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WPCLICommands.php:128
+msgid ""
+"The supplied predefined index does not exist! Please take a look at the "
+"available predefined demo imports:"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WPCLICommands.php:135
+msgid "Predefined demo import started! All other parameters will be ignored!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WPCLICommands.php:140
+#, php-format
+msgid "Selected predefined demo import: %s"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WPCLICommands.php:143
+msgid "Preparing the demo import files..."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WPCLICommands.php:148
+msgid "Demo import files could not be retrieved!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WPCLICommands.php:151
+msgid "Demo import files retrieved successfully!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WPCLICommands.php:153
+msgid "Importing..."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WPCLICommands.php:173
+msgid "Predefined import finished!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WPCLICommands.php:185
+msgid "Content import file provided does not exist! Skipping this import!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WPCLICommands.php:194
+msgid "Importing content (this might take a while)..."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WPCLICommands.php:196
+msgid "Importing content"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WPCLICommands.php:201
+msgid "Content import finished!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WPCLICommands.php:204
+msgid "There were some issues while importing the content!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WPCLICommands.php:223
+msgid "Widgets import file provided does not exist! Skipping this import!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WPCLICommands.php:227
+msgid "Importing widgets..."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WPCLICommands.php:232
+msgid "Widgets imported successfully!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WPCLICommands.php:235
+msgid "There were some issues while importing widgets!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WPCLICommands.php:254
+msgid "Customizer import file provided does not exist! Skipping this import!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WPCLICommands.php:258
+msgid "Importing customizer settings..."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WPCLICommands.php:263
+msgid "Customizer settings imported successfully!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WPCLICommands.php:266
+msgid "There were some issues while importing customizer settings!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WPCLICommands.php:286
+#, php-format
+msgid "Executing action: %s ..."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WidgetImporter.php:40
+#: the_apparatus_extensions/one-click-demo-content/inc/WidgetImporter.php:52
+msgid "Importing widgets"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WidgetImporter.php:88
+msgid "Error: Widget import file could not be found."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WidgetImporter.php:118
+msgid ""
+"Error: Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WidgetImporter.php:157
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WidgetImporter.php:178
+msgid "Site does not support widget"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WidgetImporter.php:211
+msgid "Widget already exists"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WidgetImporter.php:269
+msgid "Imported"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WidgetImporter.php:273
+msgid "Imported to Inactive"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WidgetImporter.php:279
+msgid "No Title"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/inc/WidgetImporter.php:326
+msgid "No results for widget import!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:131
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:167
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:283
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:356
+#, php-format
+msgid ""
+"This WXR file (version %s) is newer than the importer (version %s) and may "
+"not be supported. Please consider updating."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:506
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:566
+msgid "Invalid author mapping"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:667
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:755
+#, php-format
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:765
+#, php-format
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:843
+#, php-format
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:857
+#, php-format
+msgid "Failed to import \"%s\" (%s)"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:889
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:1772
+#, php-format
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:894
+#, php-format
+msgid "Post %d remapped to %d"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:934
+#, php-format
+msgid "Failed to import term: %s - %s"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:1075
+msgid "Invalid file type"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:1558
+#, php-format
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:1579
+#, php-format
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:1583
+#, php-format
+msgid "User %d remapped to %d"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:1733
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:1777
+#, php-format
+msgid "Term %d remapped to %d"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:1835
+#, php-format
+msgid "Failed to add metakey: %s, metavalue: %s to term_id: %d"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:1844
+#, php-format
+msgid "Meta for term_id %d : %s => %s ; successfully added!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:1895
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:1917
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:1923
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:1948
+#, php-format
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:1961
+#, php-format
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:1966
+#, php-format
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:1980
+#, php-format
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:1985
+#, php-format
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:2011
+#, php-format
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:2022
+#, php-format
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:2067
+#, php-format
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:2072
+#, php-format
+msgid ""
+"Post %d was imported with object \"%d\" of type \"%s\", but could not be "
+"found"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:2094
+#, php-format
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:2098
+#, php-format
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:2112
+#, php-format
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:2116
+#, php-format
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:2133
+#, php-format
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:2162
+#, php-format
+msgid "Faulty term_id provided in terms-to-be-remapped array %s"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:2172
+#, php-format
+msgid "No taxonomy provided in terms-to-be-remapped array for term #%d"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:2183
+#, php-format
+msgid "No parent_slug identified in remapping-array for term: %d"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:2191
+#, php-format
+msgid "The term(%d)\"s parent_slug (%s) is not found in the remapping-array."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:2205
+#, php-format
+msgid "No data returned by get_term_by for term_id #%d"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:2224
+#, php-format
+msgid "Could not update \"%s\" (term #%d) with mapped data"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:2234
+#, php-format
+msgid "Term %d was successfully updated with parent %d"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:2269
+msgid "Starting remapping of featured images"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/vendor/fluentthemes/wp-content-importer-v2/src/WXRImporter.php:2278
+#, php-format
+msgid "Remapping featured image ID %d to new ID %d for post ID %d"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/views/plugin-page.php:15
+msgid "One Click Demo Content Import"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/views/plugin-page.php:25
+#, php-format
+msgid ""
+"%sWarning: your server is using %sPHP safe mode%s. This means that you might "
+"experience server timeout errors.%s"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/views/plugin-page.php:39
+msgid ""
+"Importing demo data (post, pages, images, theme settings, widgets ...) is "
+"the easiest way to setup your theme."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/views/plugin-page.php:40
+msgid ""
+"It will allow you to quickly edit everything instead of creating content "
+"from scratch."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/views/plugin-page.php:46
+msgid ""
+"Do not Import demo data before installing and activating all the required "
+"plugins."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/views/plugin-page.php:51
+msgid "When you import the data, the following things might happen:"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/views/plugin-page.php:54
+msgid ""
+"No existing posts, pages, categories, images, custom post types or any other "
+"data will be deleted or modified."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/views/plugin-page.php:55
+msgid ""
+"Posts, pages, images, widgets, menus and other theme settings will get "
+"imported."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/views/plugin-page.php:56
+msgid ""
+"Please click on the Import button only once and wait, it can take a couple "
+"of minutes."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/views/plugin-page.php:73
+msgid ""
+"There are no predefined import files available in this theme. Please upload "
+"the import files manually!"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/views/plugin-page.php:77
+msgid "Manual demo files upload"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/views/plugin-page.php:80
+msgid "Choose a XML file for content import:"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/views/plugin-page.php:85
+msgid "Choose a WIE or JSON file for widget import:"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/views/plugin-page.php:90
+msgid "Choose a DAT file for customizer import:"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/views/plugin-page.php:96
+msgid "Choose a JSON file for Redux import:"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/views/plugin-page.php:99
+msgid "Enter the Redux option name:"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/views/plugin-page.php:134
+msgid "All"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/views/plugin-page.php:141
+msgid "Search demos..."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/views/plugin-page.php:162
+msgid "No preview image."
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/views/plugin-page.php:169
+msgid "Preview"
+msgstr ""
+
+#: the_apparatus_extensions/one-click-demo-content/views/plugin-page.php:182
+msgid "Importing, please wait!"
+msgstr ""
+
+#: the_apparatus_extensions/the_apparatus_extensions.php:87
+#, php-format
+msgid ""
+"The %2$sOne Click Demo Import%3$s feature requires %2$sPHP 5.3.2+%3$s to run "
+"properly. Please contact your hosting company and ask them to update the PHP "
+"version of your site to at least PHP 5.3.2.%4$s Your current version of PHP: "
+"%2$s%1$s%3$s"
+msgstr ""
