@@ -1,0 +1,138 @@
+.ancora {
+  position: relative;
+  top: -135px;
+  visibility: hidden;
+  display: block;
+}
+
+.faq-categories {
+  position: fixed;
+  width: 200px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.08);
+  margin-top: 0;
+  -webkit-transition: margin .5s ease-in-out;
+  -o-transition: margin .5s ease-in-out;
+  -moz-transition: margin .5s ease-in-out;
+  transition: margin .5s ease-in-out;
+}
+
+.faq-categories li a {
+  height: 50px;
+  line-height: 50px;
+  background: #294374;
+  border-bottom: 1px solid #555b61;
+  font-size: 12px;
+  font-weight: 600;
+  color: #fff;
+  padding: 0 24px 0 24px;
+  display: block;
+}
+
+.faq-categories li a:hover {
+  background: #555b61;
+}
+
+.faq-categories li .selected {
+  background: #42464b;
+}
+
+.faq-items {
+  position: relative;
+  width: calc(100% - 250px);
+  margin: 0 50px 0 250px;
+}
+
+.faq-group:first-of-type .faq-title {
+  margin: 0 0 1em;
+  background: transparent;
+  box-shadow: none;
+}
+
+.faq-title {
+  margin: 2em 0 1em;
+}
+
+.faq-title h2 {
+  font-size: 15px;
+  color: #bbbbc7;
+  text-transform: uppercase;
+}
+
+.faq-group > li {
+  margin-bottom: 6px;
+  background: #fff;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.08);
+  -webkit-transition: box-shadow 0.2s;
+  -o-transition: box-shadow 0.2s;
+  -moz-transition: box-shadow 0.2s;
+  transition: box-shadow 0.2s;
+}
+
+.faq-group li:hover {
+  box-shadow: 0 1px 10px rgba(108, 125, 142, 0.3);
+}
+
+.faq-trigger {
+  position: relative;
+  font-size: 24px;
+  font-weight: 300;
+  margin: 0;
+  padding: 24px 72px 24px 24px;
+  line-height: 1.2;
+  display: block;
+}
+
+.faq-content {
+  padding: 0 24px 30px;
+  display: none;
+}
+
+@media all and (max-width: 1000px) {
+  .faq-categories {
+    top: 114px;
+    width: 665px;
+    box-shadow: none;
+    z-index: 99;
+  }
+
+  .faq-categories li {
+    float: left;
+  }
+
+  .faq-categories li a {
+    font-size: 13px;
+    padding: 0 5px 0 5px;
+  }
+
+  .faq-items {
+    width: 100%;
+    margin: 0;
+  }
+
+  .faq-trigger {
+    font-size: 18px;
+  }
+}
+
+@media all and (max-width: 645px) {
+  .faq-categories {
+    top: 30px;
+    right: -12px;
+    width: 300px;
+  }
+
+  .faq-categories li a {
+    height: 40px;
+    line-height: 40px;
+  }
+}
+
+@media all and (max-width: 485px) {
+  .faq-categories {
+    display: none;
+  }
+
+  .faq-categories li a {
+    font-size: 14px;
+  }
+}

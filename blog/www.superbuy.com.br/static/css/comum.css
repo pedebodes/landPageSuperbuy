@@ -1,0 +1,643 @@
+#legacy {
+    position: fixed;
+    top: 40%;
+    right: -102px;
+    width: 135px;
+    background: #294374;
+    color: #fff;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border: 1px solid #3D5581;
+    z-index: 99999;
+    transition: right 0.5s ease-in-out;
+}
+
+#legacy:hover {
+    right: 0px;
+}
+
+#legacy .titulo {
+    padding: 0 5px 0 5px;
+    cursor: pointer;
+    float: left;
+}
+
+#legacy .titulo div {
+    width: 24px;
+    font-weight: bold;
+    word-wrap: break-word;
+    text-align: center;
+    padding: 10px 11px 10px 5px;
+    float: right;
+}
+
+#legacy .texto {
+    width: 85px;
+    text-align: center;
+    padding: 70px 15px 70px 15px;
+    float: left;
+}
+
+#legacy .texto a {
+    color: #d9edf7;
+}
+
+#legacy .texto a:hover {
+    color: #bce8f1;
+}
+
+#menupagina {
+    clear: both;
+}
+#menupagina li {
+    display: inline;
+    list-style-type: none;
+    margin: 0
+}
+#menupagina a {
+    padding: 5px
+}
+#menupagina a:hover {
+    color: white;
+    background-color: #0073b1
+}
+#conteudo {
+    padding-bottom: 45px
+}
+div.error, div.notice, div.success {
+    padding: .8em;
+    margin-bottom: 1.6em;
+    border: 2px solid #ddd;
+}
+.error {
+    background: #FBE3E4;
+    color: #8a1f11;
+    border-color: #FBC2C4;
+}
+.notice {
+    background: #FFF6BF;
+    color: #514721;
+    border-color: #FFD324;
+}
+.success {
+    background: #E6EFC2;
+    color: #264409;
+    border-color: #C6D880;
+}
+.error a {
+    color: #8a1f11;
+    background: none;
+    padding: 0;
+    margin: 0;
+}
+.notice a {
+    color: #514721;
+    background: none;
+    padding: 0;
+    margin: 0;
+}
+.success a {
+    color: #264409;
+    background: none;
+    padding: 0;
+    margin: 0;
+}
+.aprovacaofinanceira {
+    font-size: 12px;
+    text-align: left;
+    margin-bottom: 0.5em;
+}
+.aprovacaofinanceira th {
+    font-size: 12px;
+    font-weight: bold;
+    margin: 2px;
+    vertical-align: top;
+}
+.aprovacaofinanceira td {} .aprovacaofinanceira .odd {
+    background: #e8edff;
+}
+.aprovacaofinanceira .premiado td {
+    background: #3e68ba;
+    color: white;
+}
+/*a.button, button, input[type=submit], input[type=button] {
+margin: 0 0.583em 0.667em 0; padding: 4px 10px 4px 7px; border: 1px solid #dedede; border-top: 1px solid #eee; border-left: 1px solid #eee; background-color: #f5f5f5; font-family: "Liberation Sans", Helvetica, Arial, sans-serif; font-size: 100%; line-height: 130%; text-decoration: none; font-weight: bold; color: #565656; cursor: pointer; }
+button, input[type=submit], input[type=button] { width: auto; overflow: visible; padding: 4px 10px 4px 7px; }
+button[type] { padding: 4px 10px 4px 7px; line-height: 17px; }
+*:first-child+html .container button[type] { padding: 4px 10px 3px 7px; }
+button img, a.button img { margin: 0 3px -3px 0 !important; padding: 0; border: none; width: 16px; height: 16px; float: none; }*/
+
+/*** STANDARD BUTTONS
+button:hover, a.button:hover, input[type=submit]:hover, input[type=button]:hover { background-color: #e8edff; border: 1px solid #c2e1ef; color: #336699; }
+a.button:active, button:active, input[type=submit]:active, input[type=button]:active { background-color: #6299c5; border: 1px solid #6299c5; color: #fff; }***/
+a:focus,a:hover{color: inherit;}
+.prettyform {} .prettyform fieldset {} .prettyform legend {} .prettyform p {
+    clear: both;
+    margin: .5em 0;
+    overflow: hidden;
+}
+.prettyform label {
+    /*float:left;
+    width:100px;*/
+
+display: block;
+    /*text-align:right;*/
+
+margin-right: 10px;
+}
+.prettyform ul {
+    list-style-type: none;
+}
+.prettyform li label {
+    display: inline;
+    margin-right: inherit;
+}
+.prettyform input[type=text], .prettyform input[type=password], .prettyform textarea {} .prettyform textarea {
+    height: 125px;
+    overflow: auto;
+}
+.prettyform textarea#query {
+    height: 200px;
+    width: 800px;
+    overflow: auto;
+}
+.prettyform span.error {
+    padding: 2px;
+    border-width: 2px;
+    border-style: solid;
+}
+.prettyform select {} .prettyform p.submit {
+    clear: both;
+    margin: 1em 0;
+    padding: .5em 70px;
+    border-top: 1px solid #f1f1f1;
+}
+/*.prettyform button, .prettyform .submit input{
+    height:28px;
+    line-height:28px;
+    border-top:1px solid #999;
+    border-left:1px solid #999;
+    border-right:1px solid #333;
+    border-bottom:1px solid #333;
+    background-color:red;
+    background:url(../images/form5/form_button.gif) no-repeat;
+    padding:0 10px 0 10px;
+    color:#333;
+    cursor:pointer;
+    text-align:left;
+    font-size:11px;
+    font-weight:bold;
+    }
+.prettyform .submit input{
+    width: auto;
+    background-color:red;
+    }*/
+
+.prettyfloat {
+    float: left;
+    width: 300px;
+    clear: none;
+}
+.prettyfloat50 {
+    float: left;
+    width: 450px;
+    clear: none;
+    padding-bottom: 40px;
+}
+.prettyfloat100 {
+    float: center;
+    width: 100%;
+    clear: none;
+}
+.errorhack {
+    width: 240px
+}
+div.ui-datepicker {
+    font-size: 10px;
+}
+.ui-autocomplete-loading {
+    background: white url('images/ui-anim_basic_16x16.gif') right center no-repeat;
+}
+.ui-autocomplete {
+    max-height: 150px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding-right: 20px;
+}
+div.secaosituacaoempresa {
+    padding: 5px 0px 20px 20px;
+}
+h1.paginatitulo {
+    padding-bottom: 10px;
+}
+.actionbuttons {
+    white-space: nowrap;
+}
+.actioncontainer .actionbuttons {
+    /*display: none;*/
+
+visibility: hidden;
+}
+.actioncontainer:hover .actionbuttons {
+    /*display: inline;*/
+
+visibility: visible;
+}
+div.vliquidounitario, div.vcomicmsunitario, div.vcomcimsipiunitario, div.vimpostosunitario, div.vliquidototal, div.vimpostostotal, div.vpresentetotal {
+    display: none;
+}
+div.valorliquidounitario, div.valorcomicmsunitario, div.valorcomicmsipiunitario, div.valorcomicmsipidifalunitario, div.valorimpostosunitario, div.valorpresenteunitario, div.valorliquidototal, div.valorimpostostotal, div.valorcomicmstotal, div.valorcomicmsipitotal, div.valorcomicmsipidifaltotal, div.valorpresentetotal, div.dataprometida, div.impostos, div.marca, div.frete, div.quantidade, div.garantia, div.modelo, div.tipofrete, div.pagamento, div.obs, div.cobranca, div.iva, div.dataentrega, div.historico, div.ncm, div.motorista, div.placa, div.datadechegada, div.horadechegada, div.tipodeveiculo, div.volume, div.peso, div.fatminimo, div.valor-sem-imposto-pis-cofins, div.justificativa, div.baselineporcentagem {
+    padding-left: 20px;
+    height: 20px;
+    white-space: nowrap;
+}
+div.valorliquidounitario {
+    background: transparent url('../images/icones/money.png') left center no-repeat;
+}
+div.valorcomicmsunitario {
+    background: transparent url('../images/icones/money-coin.png') left center no-repeat;
+}
+div.valorcomicmsipiunitario {
+    background: transparent url('../images/icones/money-coin.png') left center no-repeat;
+}
+div.valorcomicmsipidifalunitario {
+    background: transparent url('../images/icones/money-plus.png') left center no-repeat;
+}
+div.valorimpostosunitario {
+    background: transparent url('../images/icones/money-coin.png') left center no-repeat;
+}
+div.valorpresenteunitario {
+    background: transparent url('../images/icones/currency.png') left center no-repeat;
+}
+div.valorliquidototal {
+    background: transparent url('../images/icones/money.png') left center no-repeat;
+}
+div.valorcomicmstotal {
+    background: transparent url('../images/icones/money-coin.png') left center no-repeat;
+}
+div.valorcomicmsipitotal {
+    background: transparent url('../images/icones/money-coin.png') left center no-repeat;
+}
+div.valorcomicmsipidifaltotal {
+    background: transparent url('../images/icones/money-plus.png') left center no-repeat;
+}
+div.valorimpostostotal {
+    background: transparent url('../images/icones/money-coin.png') left center no-repeat;
+}
+div.valorpresentetotal {
+    background: transparent url('../images/icones/currency.png') left center no-repeat;
+}
+div.dataprometida {
+    background: transparent url('../images/icones/calendar.png') left center no-repeat;
+}
+div.impostos {
+    background: transparent url('../images/icones/moneys.png') left center no-repeat;
+}
+div.marca {
+    background: transparent url('../images/icones/tag.png') left center no-repeat;
+}
+div.frete {
+    background: transparent url('../images/icones/truck.png') left center no-repeat;
+}
+div.quantidade {
+    background: transparent url('../images/icones/balance.png') left center no-repeat;
+}
+div.garantia {
+    background: transparent url('../images/icones/medal.png') left center no-repeat;
+}
+div.modelo {
+    background: transparent url('../images/icones/tag-hash.png') left center no-repeat;
+}
+div.tipofrete {
+    background: transparent url('../images/icones/truck--pencil.png') left center no-repeat;
+}
+div.pagamento {
+    background: transparent url('../images/icones/property-export.png') left center no-repeat;
+}
+div.obs {
+    background: transparent url('../images/icones/application-text.png') left center no-repeat;
+}
+div.cobranca {
+    background: transparent url('../images/icones/edit-percent.png') left center no-repeat;
+}
+div.iva {
+    background: transparent url('../images/icones/edit-number.png') left center no-repeat;
+}
+div.dataentrega {
+    background: transparent url('../images/icones/calendar-share.png') left center no-repeat;
+}
+div.historico {
+    background: transparent url('../images/icones/clock-history.png') left center no-repeat;
+}
+div.ncm {
+    background: transparent url('../images/icones/barcode.png') left center no-repeat;
+}
+div.motorista {
+    background: transparent url('../images/icones/cards-bind-address.png') left center no-repeat;
+}
+div.placa {
+    background: transparent url('../images/icones/truck-empty.png') left center no-repeat;
+}
+div.datadechegada {
+    background: transparent url('../images/icones/calendar-task.png') left center no-repeat;
+}
+div.horadechegada {
+    background: transparent url('../images/icones/clock-select.png') left center no-repeat;
+}
+div.tipodeveiculo {
+    background: transparent url('../images/icones/baggage-cart-box.png') left center no-repeat;
+}
+div.volume {
+    background: transparent url('../images/icones/layer-resize.png') left center no-repeat;
+}
+div.peso {
+    background: transparent url('../images/icones/weight.png') left center no-repeat;
+}
+div.fatminimo {
+    background: transparent url('../images/icones/money-arrow.png') left center no-repeat;
+}div.valor-sem-imposto-pis-cofins {
+    background: transparent url('../images/icones/money--exclamation.png') left center no-repeat;
+}div.justificativa {
+    background: transparent url('../images/icones/report-paper.png') left center no-repeat;
+}div.baselineporcentagem {
+    background: transparent url('../images/icones/edit-percent.png') left center no-repeat;
+}
+.lancepremiado {
+    background-color: #dff0d8;
+    color: #000;
+}
+.tabela td.melhorpreco {
+    border: 2px solid green;
+}
+.tabela .lancepremiado td {
+    color: black;
+}
+div.lancenotifications {
+    height: 20px;
+}
+.popup {
+    background: #e74c3c !important;
+    color: #ffffff !important;
+}
+.ui.popup: :before {
+    background: #e74c3c !important;
+}
+.config-header {
+    border-bottom-width: 0;
+    border-bottom: 1px solid #e1e8ed;
+}
+.config-subheader {
+    margin-top: 5px;
+}
+.config-h2 {
+    margin: 0;
+}
+.config-h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    line-height: 5px;
+    font-style: italic;
+}
+.config-content-inner {
+    padding: 12px;
+}
+.botaomenu {
+    background: #294374;
+    border-radius: 2px;
+    color: #fff;
+    padding: 0 15px;
+}
+#sidebar-wrapper {
+    border-right: 1px solid #fff;
+}
+
+/*Depoimentos*/
+blockquote {
+    font-size: 28px;
+    line-height: 30px;
+    font-style: italic;
+    margin: 0.25em 0;
+    padding: 0.25em 40px;
+    position: relative;
+    border: 0;
+}
+blockquote:before {
+    display: block;
+    content: "\201C";
+    font-size: 80px;
+    position: absolute;
+    left: -2px;
+    top: 12px;
+}
+blockquote cite {
+    font-family: "Lato", sans-serif;
+    color: #999999;
+    font-size: 16px;
+    display: block;
+}
+
+/*********************
+  Boostrap Config Css
+**********************/
+
+.btn {
+    padding: 10px 15px;
+    font-size: 15px;
+}
+
+.btn-default {
+    color: #fff;
+    background-color: #95a5a6;
+    border-color: #95a5a6;
+}
+
+.btn-default:focus, .btn-default:hover, .btn-default:active {
+    color: #fff;
+    background-color: #798d8f;
+    border-color: #74898a;
+}
+
+.btn-primary {
+    background-color: #163164;
+    border: solid 1px #163164;
+}
+
+.btn-primary:hover {
+    background-color: #1a242f;
+    border: solid 1px #1a242f;
+}
+
+.modal-open #header .container {
+    position: relative;
+    left: -8.5px;
+}
+
+.navbar {
+    border-radius: 0px;
+    margin-bottom: 0px;
+    min-height: 10px;
+}
+.navbar-default {
+    background-color: #294374;
+    border-color: transparent;
+}
+@media (min-width: 768px) {
+    .navbar-text {
+        float: left;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .navbar-left {
+        float: left !important;
+    }
+    .navbar-right {
+        float: right !important;
+        margin-right: -15px;
+    }
+    .navbar-right ~ .navbar-right {
+        margin-right: 0;
+    }
+}
+.navbar-default {
+    background-color: #294374;
+    border-color: transparent;
+}
+.navbar-default .navbar-brand {
+    color: #ffffff;
+}
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color: #18bc9c;
+    background-color: transparent;
+}
+.navbar-default .navbar-text {
+    color: #777777;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #ffffff;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background: #3e5582;
+    color: #fff;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    color: #ffffff;
+    background-color: #1a242f;
+}
+.navbar-default .navbar-nav > .disabled > a, .navbar-default .navbar-nav > .disabled > a:hover, .navbar-default .navbar-nav > .disabled > a:focus {
+    color: #cccccc;
+    background-color: transparent;
+}
+.navbar-default .navbar-toggle {
+    border-color: #1a242f;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: #1a242f;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #ffffff;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: transparent;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+    background-color: #1a242f;
+    color: #ffffff;
+}
+.navbar-nav > li {
+    background: rgba(0, 0, 0, 0) url("../images/divisoria_menu.jpg") no-repeat scroll right center;
+    float: left;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #ffffff;
+}
+.navbar-nav > li > a {
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.navbar-nav > li > a {
+    font-family: "Lato", sans-serif;
+    font-size: 17px;
+    line-height: 30px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+@media (max-width: 992px) {
+    #legacy {
+        display: none;
+    }
+
+    .lista-user {
+        margin-left: 15px;
+    }
+}
+
+/***************************
+    nav collapse menu
+****************************/
+
+.navbar-collapse {
+    overflow-x: visible;
+    -webkit-overflow-scrolling: touch;
+    border-top: 1px solid transparent;
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .1);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, .1);
+    padding: 0;
+}
+@media (min-width: 992px) {
+    .navbar-collapse {
+        width: auto;
+        border-top: 0;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+    }
+    .navbar-collapse.collapse {
+       display: block !important;
+       visibility: visible !important;
+       height: auto !important;
+       padding-bottom: 0;
+       overflow: visible !important;
+    }
+    .navbar-collapse.in {
+        overflow-y: visible;
+    }
+    .navbar-fixed-top .navbar-collapse, .navbar-static-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+@media (max-width: 992px) {
+    .navbar-nav {
+        margin-left: 0px;
+    }
+    .navbar-collapse.collapse {
+        display: none !important;
+    }
+    .navbar-collapse.collapse.in {
+        display: block !important;
+    }
+    .navbar-nav > li {
+        float: none;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-header {
+        float: right;
+    }
+    .navbar-nav {
+        float: none;
+    }
+    .navbar-nav > li {
+        background-image: none !important;
+    }
+}
+
+/***************************
+    table
+****************************/
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    vertical-align: middle;
+}

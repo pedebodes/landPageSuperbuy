@@ -1,0 +1,1 @@
+Cufon.replace('h1 a, .info_l, .info_r, .arrow_com p , #header .graybutton a,  .post-title h2 a, .wtitle h2, #header .bigtext,  .content .index-right h3, .index h2 b,  .header2  .rss_but a, a.big, .footer_top_box h2, .header_right h2 ', { hover: true });
