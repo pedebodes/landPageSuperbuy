@@ -13891,28 +13891,6 @@ function condenseHeaderMobileOverride() {
 				loves_id: $id,
 				love_nonce: nectarLove.loveNonce
 			}
-			
-			$.post(nectarLove.ajaxurl, $dataToPass, function(data){
-				$loveLink.find('span:not(.love-txt)').html(data);
-				$loveLink.addClass('loved').attr('title','You already love this!');
-				$loveLink.find('span:not(.love-txt)').css({'opacity': 1,'width':'auto'});
-
-				if($(data).text() == '1') {
-					$loveLink.find('span.love-txt.single').css({'visibility':'visible', 'text-indent':'0'});
-					$loveLink.find('span.love-txt.plural').css({'visibility':'hidden', 'text-indent':'-9999px'});
-				} else {
-					$loveLink.find('span.love-txt.single').css({'visibility':'hidden', 'text-indent':'-9999px'});
-					$loveLink.find('span.love-txt.plural').css({'visibility':'visible', 'text-indent':'0'});
-				}
-
-				//ascend
-				if($('body').hasClass('ascend') && $that.parents('.classic_enhanced').length == 0 ){
-					$that.find('.icon-salient-heart-2').addClass('loved');
-				} else if($that.parents('.classic_enhanced').length > 0 ) {
-					$that.find('.icon-salient-heart-2').addClass('loved');
-				}
-			});
-			
 			$(this).addClass('inactive');
 			
 			return false;
